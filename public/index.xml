@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Efrain Colque </title>
+        <link>http://example.org/</link>
+        <description>Efrain Colque </description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>About</title>
+    <link>http://example.org/posts/about/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/posts/about/</guid>
+    <description><![CDATA[💫 ¡Bienvenido a mi perfil! 👋 🚀 Sobre mí: ¡Hola! Soy [Tu Nombre], estudiante de ingeniería de sistemas apasionado por Linux y la terminal. Siempre estoy explorando nuevas tecnologías en el mundo de los sistemas y listo para colaborar en proyectos innovadores.
+💻 Tech Stack: [Lista de tus tecnologías favoritas o en las que estás especializado]
+📊 Estadísticas de GitHub: 🏆 Trofeos de GitHub: 🔝 Repositorio con más Contribuciones 🎧 Spotify: ]]></description>
+</item>
+<item>
+    <title></title>
+    <link>http://example.org/posts/pwa/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><guid>http://example.org/posts/pwa/</guid>
+    <description><![CDATA[Introducción a Progressive Web Apps (PWA) Progressive Web Apps (PWA): Transformando la Experiencia Digital Las Progressive Web Apps (PWA) han emergido como una revolucionaria fusión entre las aplicaciones web y las nativas, ofreciendo a los usuarios una experiencia similar a la de una aplicación instalada, pero sin la necesidad de descargas o instalaciones. Estas aplicaciones son diseñadas para ejecutarse directamente desde el navegador web, utilizando tecnologías avanzadas para proporcionar funcionalidades clave.]]></description>
+</item>
+</channel>
+</rss>
