@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WEB - Etiqueta - Efrain Colque </title>
+        <link>http://example.org/tags/web/</link>
+        <description>WEB - Etiqueta - Efrain Colque </description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/web/" rel="self" type="application/rss+xml" /><item>
+    <title>INTRODUCCION A LAS PWA</title>
+    <link>http://example.org/posts/pwa/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/posts/pwa/</guid>
+    <description><![CDATA[Introducción a Progressive Web Apps (PWA) Progressive Web Apps (PWA): Transformando la Experiencia Digital Las Progressive Web Apps (PWA) han emergido como una revolucionaria fusión entre las aplicaciones web y las nativas, ofreciendo a los usuarios una experiencia similar a la de una aplicación instalada, pero sin la necesidad de descargas o instalaciones. Estas aplicaciones son diseñadas para ejecutarse directamente desde el navegador web, utilizando tecnologías avanzadas para proporcionar funcionalidades clave.]]></description>
+</item>
+</channel>
+</rss>

@@ -3,11 +3,14 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>http://example.org/posts/about/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/desarrollo/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
             <loc>http://example.org/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/pwa/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/profile/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/tags/proggraming/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/pwa/</loc></url><url>
+            <loc>http://example.org/tags/web/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
             <loc>http://example.org/pwa/</loc></url><url>
-            <loc>http://example.org/categories/</loc></url><url>
             <loc>http://example.org/offline/</loc></url></urlset>

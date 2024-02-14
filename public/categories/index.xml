@@ -3,5 +3,11 @@
         <title>Categories - Categoría - Efrain Colque </title>
         <link>http://example.org/categories/</link>
         <description>Categories - Categoría - Efrain Colque </description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Desarrollo</title>
+    <link>http://example.org/categories/desarrollo/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/categories/desarrollo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
