@@ -9,5 +9,11 @@
     <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/categories/desarrollo/</guid>
     <description><![CDATA[]]></description>
 </item>
+<item>
+    <title>GIT</title>
+    <link>http://example.org/categories/git/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/categories/git/</guid>
+    <description><![CDATA[]]></description>
+</item>
 </channel>
 </rss>
