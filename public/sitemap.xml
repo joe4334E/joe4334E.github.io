@@ -2,19 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/</loc><lastmod>2024-02-08T09:36:34-06:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2024-02-08T09:36:34-06:00</lastmod></url><url>
-            <loc>http://example.org/posts/first_post/</loc><lastmod>2024-02-08T09:36:34-06:00</lastmod></url><url>
-            <loc>http://example.org/posts/about/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/deploy/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/desarrollo/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/git/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/github/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/pwa/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/profile/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/proggraming/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/creacion-de-blog-y-deploy/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/web/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/offline/</loc></url></urlset>
+            <loc>http://joe4334e.github.io/</loc><lastmod>2024-02-08T09:36:34-06:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/</loc><lastmod>2024-02-08T09:36:34-06:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/first_post/</loc><lastmod>2024-02-08T09:36:34-06:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/about/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/basic/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/categories/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/deploy/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/categories/desarrollo/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/categories/git/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/github/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/tarea/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/pwa/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/categories/java/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/poo/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/profile/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/proggraming/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/tags/web/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod></url><url>
+            <loc>http://joe4334e.github.io/offline/</loc></url></urlset>

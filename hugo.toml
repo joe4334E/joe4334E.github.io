@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://joe4334e.github.io/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
@@ -28,7 +28,7 @@ theme = "FeelIt"
     identifier = "tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = "etiquetas "
     url = "/tags/"
     title = ""
     weight = 2
@@ -36,11 +36,19 @@ theme = "FeelIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "Categorias"
     url = "/categories/"
     title = ""
     weight = 3
 
+  [[menu.main]]
+    identifier = "About"
+    pre = ""
+    post = ""
+    name = "Sobre Mi"
+    url = "/about/"
+    title = ""
+    weight = 4
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)

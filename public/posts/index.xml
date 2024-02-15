@@ -1,34 +1,47 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Todo Artículos - Efrain Colque </title>
-        <link>http://example.org/posts/</link>
+        <link>http://joe4334e.github.io/posts/</link>
         <description>Todo Artículos | Efrain Colque </description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 08 Feb 2024 09:36:34 -0600</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 08 Feb 2024 09:36:34 -0600</lastBuildDate><atom:link href="http://joe4334e.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Primer Post</title>
-    <link>http://example.org/posts/first_post/</link>
-    <pubDate>Thu, 08 Feb 2024 09:36:34 -0600</pubDate><guid>http://example.org/posts/first_post/</guid>
+    <link>http://joe4334e.github.io/posts/first_post/</link>
+    <pubDate>Thu, 08 Feb 2024 09:36:34 -0600</pubDate><guid>http://joe4334e.github.io/posts/first_post/</guid>
     <description><![CDATA[Hola IA soy una inteligencia artificial y estoy aquí para ayudarte. Permíteme mostrarte cómo se vería en primera persona:
 Hola Humano soy un programador y me gustaría mostrarte cómo escribir un programa simple en C que imprime &ldquo;Hello World&rdquo; en la consola. Aquí está el código:
 La primera forma de uso de chatgot con obsidian #include &lt;stdio.h&gt; int main() { printf(&#34;Hello World!\n&#34;); return 0; } Cuando ejecutamos este programa, veremos la siguiente salida en la consola:]]></description>
 </item>
 <item>
     <title>About</title>
-    <link>http://example.org/posts/about/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/posts/about/</guid>
+    <link>http://joe4334e.github.io/posts/about/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/about/</guid>
     <description><![CDATA[💫 ¡Bienvenido a mi perfil! 👋 🚀 Sobre mí: ¡Hola! Soy [Tu Nombre], estudiante de ingeniería de sistemas apasionado por Linux y la terminal. Siempre estoy explorando nuevas tecnologías en el mundo de los sistemas y listo para colaborar en proyectos innovadores.
 💻 Tech Stack: [Lista de tus tecnologías favoritas o en las que estás especializado]
 📊 Estadísticas de GitHub: 🏆 Trofeos de GitHub: 🔝 Repositorio con más Contribuciones 🎧 Spotify: ]]></description>
 </item>
 <item>
+    <title>Basic markdown syntax</title>
+    <link>http://joe4334e.github.io/posts/basic/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/basic/</guid>
+    <description><![CDATA[<h1 id="basic-markdown-syntax">Basic Markdown Syntax</h1>
+<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
+    <title>Introduccion a Estructura de Datos</title>
+    <link>http://joe4334e.github.io/posts/tarea/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/tarea/</guid>
+    <description><![CDATA[Desarrollo de POO]]></description>
+</item>
+<item>
     <title>INTRODUCCION A LAS PWA</title>
-    <link>http://example.org/posts/pwa/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/posts/pwa/</guid>
+    <link>http://joe4334e.github.io/posts/pwa/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/pwa/</guid>
     <description><![CDATA[Introducción a Progressive Web Apps (PWA) Progressive Web Apps (PWA): Transformando la Experiencia Digital Las Progressive Web Apps (PWA) han emergido como una revolucionaria fusión entre las aplicaciones web y las nativas, ofreciendo a los usuarios una experiencia similar a la de una aplicación instalada, pero sin la necesidad de descargas o instalaciones. Estas aplicaciones son diseñadas para ejecutarse directamente desde el navegador web, utilizando tecnologías avanzadas para proporcionar funcionalidades clave.]]></description>
 </item>
 <item>
     <title>Uso del Tema FeelIt</title>
-    <link>http://example.org/posts/creacion-de-blog-y-deploy/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/posts/creacion-de-blog-y-deploy/</guid>
+    <link>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</guid>
     <description><![CDATA[Creacion de blog con hugo y deploy desde 0 con el tema Feelit Para crear un blog con Hugo y desplegarlo desde cero con el tema Feelit, puedes seguir los siguientes pasos:
 Instalación de Hugo: Descarga e instala Hugo siguiendo las instrucciones de la documentación oficial: https://gohugo.io/getting-started/installing/ Crear un nuevo sitio de Hugo: Abre una terminal y ejecuta el siguiente comando para crear un nuevo sitio de Hugo: hugo new site nombre-del-blog Descargar el tema Feelit: Ve al repositorio oficial del tema Feelit en GitHub: https://github.]]></description>
 </item>

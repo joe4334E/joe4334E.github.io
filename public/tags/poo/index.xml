@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>POO - Etiqueta - Efrain Colque </title>
+        <link>http://joe4334e.github.io/tags/poo/</link>
+        <description>POO - Etiqueta - Efrain Colque </description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://joe4334e.github.io/tags/poo/" rel="self" type="application/rss+xml" /><item>
+    <title>Introduccion a Estructura de Datos</title>
+    <link>http://joe4334e.github.io/posts/tarea/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/tarea/</guid>
+    <description><![CDATA[Desarrollo de POO]]></description>
+</item>
+</channel>
+</rss>

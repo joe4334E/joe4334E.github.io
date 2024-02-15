@@ -1,36 +1,42 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Etiqueta - Efrain Colque </title>
-        <link>http://example.org/tags/</link>
+        <link>http://joe4334e.github.io/tags/</link>
         <description>Tags - Etiqueta - Efrain Colque </description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://joe4334e.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Deploy</title>
-    <link>http://example.org/tags/deploy/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/tags/deploy/</guid>
+    <link>http://joe4334e.github.io/tags/deploy/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/tags/deploy/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Github</title>
-    <link>http://example.org/tags/github/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/tags/github/</guid>
+    <link>http://joe4334e.github.io/tags/github/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/tags/github/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>POO</title>
+    <link>http://joe4334e.github.io/tags/poo/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/tags/poo/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Profile</title>
-    <link>http://example.org/tags/profile/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/tags/profile/</guid>
+    <link>http://joe4334e.github.io/tags/profile/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/tags/profile/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>PROGGRAMING</title>
-    <link>http://example.org/tags/proggraming/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/tags/proggraming/</guid>
+    <link>http://joe4334e.github.io/tags/proggraming/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/tags/proggraming/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>WEB</title>
-    <link>http://example.org/tags/web/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://example.org/tags/web/</guid>
+    <link>http://joe4334e.github.io/tags/web/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/tags/web/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
