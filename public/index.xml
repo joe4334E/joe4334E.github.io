@@ -14,14 +14,6 @@ Hola Humano soy un programador y me gustaría mostrarte cómo escribir un progra
 La primera forma de uso de chatgot con obsidian #include &lt;stdio.h&gt; int main() { printf(&#34;Hello World!\n&#34;); return 0; } Cuando ejecutamos este programa, veremos la siguiente salida en la consola:]]></description>
 </item>
 <item>
-    <title>About</title>
-    <link>http://joe4334e.github.io/posts/about/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/about/</guid>
-    <description><![CDATA[💫 ¡Bienvenido a mi perfil! 👋 🚀 Sobre mí: ¡Hola! Soy [Tu Nombre], estudiante de ingeniería de sistemas apasionado por Linux y la terminal. Siempre estoy explorando nuevas tecnologías en el mundo de los sistemas y listo para colaborar en proyectos innovadores.
-💻 Tech Stack: [Lista de tus tecnologías favoritas o en las que estás especializado]
-📊 Estadísticas de GitHub: 🏆 Trofeos de GitHub: 🔝 Repositorio con más Contribuciones 🎧 Spotify: ]]></description>
-</item>
-<item>
     <title>Basic markdown syntax</title>
     <link>http://joe4334e.github.io/posts/basic/</link>
     <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/basic/</guid>
