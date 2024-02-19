@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>D - Categoría - Efrain Colque </title>
+        <link>http://joe4334e.github.io/categories/d/</link>
+        <description>D - Categoría - Efrain Colque </description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://joe4334e.github.io/categories/d/" rel="self" type="application/rss+xml" /><item>
+    <title>Tarea</title>
+    <link>http://joe4334e.github.io/emi/001.tarea/tarea/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/emi/001.tarea/tarea/</guid>
+    <description><![CDATA[Primer post en otro directorio ]]></description>
+</item>
+</channel>
+</rss>

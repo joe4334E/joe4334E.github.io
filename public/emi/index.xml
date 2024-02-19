@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMIs on Efrain Colque </title>
+    <link>http://joe4334e.github.io/emi/</link>
+    <description>Recent content in EMIs on Efrain Colque </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 04 Apr 2023 15:58:26 +0800</lastBuildDate>
+    <atom:link href="http://joe4334e.github.io/emi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic</title>
+      <link>http://joe4334e.github.io/emi/basic/</link>
+      <pubDate>Sat, 04 Mar 2023 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/basic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.1_Proposiciones_y_Valores_de_Verdad</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.1_proposiciones_y_valores_de_verdad/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.1_proposiciones_y_valores_de_verdad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.2_Proposiciones_simples_y_compuestas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.2_proposiciones_simples_y_compuestas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.2_proposiciones_simples_y_compuestas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.3_Tablas_de_Verdad</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.3_tablas_de_verdad/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.3_tablas_de_verdad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.4_Proposiciones_logicamente_equivalentes</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.4_proposiciones_logicamente_equivalentes/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.4_proposiciones_logicamente_equivalentes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.5_Algebra_de_Proposiciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.5_algebra_de_proposiciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.5_algebra_de_proposiciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.6_Argumentacion_y_Reglas_de_Inferencia</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.6_argumentacion_y_reglas_de_inferencia/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.6_argumentacion_y_reglas_de_inferencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.7_Cuantificadores</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.7_cuantificadores/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.7_cuantificadores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.8_Metodos_de_Demostracion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.8_metodos_de_demostracion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.8_metodos_de_demostracion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indice de</title>
+      <link>http://joe4334e.github.io/emi/semestre001/01-algebra/1-logica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre001/01-algebra/1-logica/</guid>
+      <description>Indice de la materia Logica #!/bin/bash # Definir la ruta base base_path=&amp;#34;emi/Semestre_1/01. ALGEBRA/1 LÓGICA&amp;#34; # Definir los nombres de los archivos files=(&amp;#34;1.1 Proposiciones y Valores de verdad.md&amp;#34; &amp;#34;1.2 Proposiciones simples y compuestas.md&amp;#34; &amp;#34;1.3 Tablas de verdad.md&amp;#34; &amp;#34;1.4 Proposiciones lógicamente equivalentes.md&amp;#34; &amp;#34;1.5 Algebra de proposiciones.md&amp;#34; &amp;#34;1.6 Argumentación y Reglas de inferencia.md&amp;#34; &amp;#34;1.7 Cuantificadores.md&amp;#34; &amp;#34;1.8 Métodos de demostración.md&amp;#34;) # Crear los archivos con hugo new for file in &amp;#34;${files[@]}&amp;#34;; do hugo new &amp;#34;$base_path/$file&amp;#34; done </description>
+    </item>
+    <item>
+      <title>Tarea</title>
+      <link>http://joe4334e.github.io/emi/001.tarea/tarea/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/001.tarea/tarea/</guid>
+      <description>Primer post en otro directorio </description>
+    </item>
+  </channel>
+</rss>

@@ -1,10 +1,10 @@
 ---
 title: Basic
 subtitle: ""
-date: 2020-03-04T15:58:26+08:00
-lastmod: 2020-03-04T15:58:26+08:00
-draft: true
-author: ""
+date: 2023-03-04T15:58:26+08:00
+lastmod: 2023-04-04T15:58:26+08:00
+draft: false
+author: "Efrain Colque"
 authorLink: ""
 description: ""
 license: ""

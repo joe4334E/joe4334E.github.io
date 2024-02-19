@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ALGEBRA - Categoría - Efrain Colque </title>
+        <link>http://joe4334e.github.io/categories/algebra/</link>
+        <description>ALGEBRA - Categoría - Efrain Colque </description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://joe4334e.github.io/categories/algebra/" rel="self" type="application/rss+xml" /><item>
+    <title>Indice de</title>
+    <link>http://joe4334e.github.io/emi/semestre001/01-algebra/1-logica/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/emi/semestre001/01-algebra/1-logica/</guid>
+    <description><![CDATA[Indice de la materia Logica #!/bin/bash # Definir la ruta base base_path=&#34;emi/Semestre_1/01. ALGEBRA/1 LÓGICA&#34; # Definir los nombres de los archivos files=(&#34;1.1 Proposiciones y Valores de verdad.md&#34; &#34;1.2 Proposiciones simples y compuestas.md&#34; &#34;1.3 Tablas de verdad.md&#34; &#34;1.4 Proposiciones lógicamente equivalentes.md&#34; &#34;1.5 Algebra de proposiciones.md&#34; &#34;1.6 Argumentación y Reglas de inferencia.md&#34; &#34;1.7 Cuantificadores.md&#34; &#34;1.8 Métodos de demostración.md&#34;) # Crear los archivos con hugo new for file in &#34;${files[@]}&#34;; do hugo new &#34;$base_path/$file&#34; done ]]></description>
+</item>
+</channel>
+</rss>
