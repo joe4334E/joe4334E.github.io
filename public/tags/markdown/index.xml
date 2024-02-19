@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Etiqueta - Efrain Colque </title>
+        <link>http://joe4334e.github.io/tags/markdown/</link>
+        <description>Markdown - Etiqueta - Efrain Colque </description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://joe4334e.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://joe4334e.github.io/posts/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+</channel>
+</rss>

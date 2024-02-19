@@ -6,24 +6,30 @@
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 08 Feb 2024 09:36:34 -0600</lastBuildDate>
             <atom:link href="http://joe4334e.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://joe4334e.github.io/posts/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
     <title>Primer Post</title>
-    <link>http://joe4334e.github.io/posts/first_post/</link>
-    <pubDate>Thu, 08 Feb 2024 09:36:34 -0600</pubDate><guid>http://joe4334e.github.io/posts/first_post/</guid>
+    <link>http://joe4334e.github.io/posts/primerpost/first_post/</link>
+    <pubDate>Thu, 08 Feb 2024 09:36:34 -0600</pubDate><guid>http://joe4334e.github.io/posts/primerpost/first_post/</guid>
     <description><![CDATA[Hola IA soy una inteligencia artificial y estoy aquí para ayudarte. Permíteme mostrarte cómo se vería en primera persona:
 Hola Humano soy un programador y me gustaría mostrarte cómo escribir un programa simple en C que imprime &ldquo;Hello World&rdquo; en la consola. Aquí está el código:
 La primera forma de uso de chatgot con obsidian #include &lt;stdio.h&gt; int main() { printf(&#34;Hello World!\n&#34;); return 0; } Cuando ejecutamos este programa, veremos la siguiente salida en la consola:]]></description>
 </item>
 <item>
     <title>Basic markdown syntax</title>
-    <link>http://joe4334e.github.io/posts/basic/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/basic/</guid>
+    <link>http://joe4334e.github.io/posts/basico/basic/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/basico/basic/</guid>
     <description><![CDATA[<h1 id="basic-markdown-syntax">Basic Markdown Syntax</h1>
 <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item>
 <item>
     <title>Introduccion a Estructura de Datos</title>
-    <link>http://joe4334e.github.io/posts/tarea/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/tarea/</guid>
+    <link>http://joe4334e.github.io/posts/tarea/tarea/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/tarea/tarea/</guid>
     <description><![CDATA[Desarrollo de POO]]></description>
 </item>
 <item>
@@ -34,10 +40,39 @@ La primera forma de uso de chatgot con obsidian #include &lt;stdio.h&gt; int mai
 </item>
 <item>
     <title>Uso del Tema FeelIt</title>
-    <link>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</guid>
+    <link>http://joe4334e.github.io/posts/deploy/creacion-de-blog-y-deploy/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/deploy/creacion-de-blog-y-deploy/</guid>
     <description><![CDATA[Creacion de blog con hugo y deploy desde 0 con el tema Feelit Para crear un blog con Hugo y desplegarlo desde cero con el tema Feelit, puedes seguir los siguientes pasos:
 Instalación de Hugo: Descarga e instala Hugo siguiendo las instrucciones de la documentación oficial: https://gohugo.io/getting-started/installing/ Crear un nuevo sitio de Hugo: Abre una terminal y ejecuta el siguiente comando para crear un nuevo sitio de Hugo: hugo new site nombre-del-blog Descargar el tema Feelit: Ve al repositorio oficial del tema Feelit en GitHub: https://github.]]></description>
+</item>
+<item>
+    <title></title>
+    <link>http://joe4334e.github.io/posts/emi-semestres/10mo-semestre/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><guid>http://joe4334e.github.io/posts/emi-semestres/10mo-semestre/</guid>
+    <description><![CDATA[52. ADMINISTRACIÓN Y DIRECCIÓN DE OPERACIONES 1 DIRECCIÓN DE OPERACIONES EN LAS EMPRESAS DE SERVICIOS 1.1. Servicios en la sociedad actual 1.2. Dirección de operaciones en las empresas de servicios 1.3. La estrategias de operaciones
+2 DISEÑO DE OPERACIONES EN LAS EMPRESAS DE SERVICIOS 2.1. Aspectos operativos 2.2. Servicios y procesos de negocio 2.3. Localización y distribución en planta 2.4. Capacidad en servicios con líneas de espera
+3 GESTIÓN DE CALIDAD EN TICs 3.]]></description>
+</item>
+<item>
+    <title></title>
+    <link>http://joe4334e.github.io/posts/emi-semestres/1er-semestre/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><guid>http://joe4334e.github.io/posts/emi-semestres/1er-semestre/</guid>
+    <description><![CDATA[1. ALGEBRA 1 LÓGICA 1.1. Proposiciones y Valores de verdad 1.2. Proposiciones simples y compuestas 1.3. Tablas de verdad 1.4. Proposiciones lógicamente equivalentes 1.5. Algebra de proposiciones 1.6. Argumentación y Reglas de inferencia 1.7. Cuantificadores 1.8. Métodos de demostración
+2 TEORÍA DE CONJUNTOS 2.1. Descripción de conjuntos y relación de pertenencia 2.2. Cardinalidad y tipos de conjuntos 2.3. Relaciones entre conjuntos 2.4. Operaciones entre conjuntos 2.5. Algebra de conjuntos 2.6. Producto cartesiano 2.]]></description>
+</item>
+<item>
+    <title></title>
+    <link>http://joe4334e.github.io/posts/emi-semestres/2do-semestre/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><guid>http://joe4334e.github.io/posts/emi-semestres/2do-semestre/</guid>
+    <description><![CDATA[Algebra Lineal y teoria matricial 1 MATRICES 1.1. Definición y generación de matrices 1.2. Operaciones con matrices 1.3. Propiedades de las operaciones 1.4. Operaciones elementales con las filas de una matriz 1.5. Matriz inversa y sus propiedades 1.6. Un método para invertir matrices (Escalonamiento) 1.7. Matriz traspuesta y sus propiedades 1.8. Matrices especiales. 1.9. Equivalencia y semejanza de matrices 1.10 Factorización LDU 1.11 Matlab aplicado al tema
+2 DETERMINANTES 2.1. Definición 2.]]></description>
+</item>
+<item>
+    <title></title>
+    <link>http://joe4334e.github.io/posts/emi-semestres/3er-semestre/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><guid>http://joe4334e.github.io/posts/emi-semestres/3er-semestre/</guid>
+    <description><![CDATA[11. ECUACIONES DIFERENCIALES I. 1 TEORÍA GENERAL DE ECUACIONES DIFERENCIALES 1.1. Conceptualización y desarrollo histórico de las ecuaciones diferenciales 1.2. Clasificación de las ecuaciones diferenciales 1.3. Soluciones generales y particulares de las ecuaciones diferenciales ordinarias 1.4. Teoremas de existencia y unicidad de las ecuaciones 1.5. Método de las isóclinas y métodos aproximados de solución de las ecuaciones diferenciales ordinarias
+2 ECUACIONES DIFERENCIALES DE PRIMER ORDEN Y DE ORDEN SUPERIOR 2.1. Ecuaciones de primer orden, métodos de solución 2.]]></description>
 </item>
 </channel>
 </rss>

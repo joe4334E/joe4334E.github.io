@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title> - Efrain Colque </title><meta name="description" content=""><meta property="og:title" content="" />
+<meta property="og:description" content="Algebra Lineal y teoria matricial 1 MATRICES 1.1. Definición y generación de matrices 1.2. Operaciones con matrices 1.3. Propiedades de las operaciones 1.4. Operaciones elementales con las filas de una matriz 1.5. Matriz inversa y sus propiedades 1.6. Un método para invertir matrices (Escalonamiento) 1.7. Matriz traspuesta y sus propiedades 1.8. Matrices especiales. 1.9. Equivalencia y semejanza de matrices 1.10 Factorización LDU 1.11 Matlab aplicado al tema
+2 DETERMINANTES 2.1. Definición 2." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://joe4334e.github.io/posts/2do-semestre/" /><meta property="article:section" content="posts" />
+
+
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Algebra Lineal y teoria matricial 1 MATRICES 1.1. Definición y generación de matrices 1.2. Operaciones con matrices 1.3. Propiedades de las operaciones 1.4. Operaciones elementales con las filas de una matriz 1.5. Matriz inversa y sus propiedades 1.6. Un método para invertir matrices (Escalonamiento) 1.7. Matriz traspuesta y sus propiedades 1.8. Matrices especiales. 1.9. Equivalencia y semejanza de matrices 1.10 Factorización LDU 1.11 Matlab aplicado al tema
+2 DETERMINANTES 2.1. Definición 2."/>
+<meta name="application-name" content="Efrain Colque ">
+<meta name="apple-mobile-web-app-title" content="Efrain Colque "><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://joe4334e.github.io/posts/2do-semestre/" /><link rel="prev" href="http://joe4334e.github.io/posts/3er-semestre/" /><link rel="next" href="http://joe4334e.github.io/posts/1er-semestre/" /><link rel="stylesheet" href="/css/page.min.css"><link rel="stylesheet" href="/css/home.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "",
+        "inLanguage": "es",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/joe4334e.github.io\/posts\/2do-semestre\/"
+        },"genre": "posts","keywords": "IS","wordcount":  1671 ,
+        "url": "http:\/\/joe4334e.github.io\/posts\/2do-semestre\/","publisher": {
+            "@type": "Organization",
+            "name": "Autor"},"author": {
+                "@type": "Person",
+                "name": "Autor"
+            },"description": ""
+    }
+    </script></head><body data-header-desktop="" data-header-mobile=""><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Efrain Colque ">Efrain Colque </a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Publicaciones </a><a class="menu-item" href="/tags/"> etiquetas  </a><a class="menu-item" href="/categories/"> Categorias </a><a class="menu-item" href="/about/"> Sobre Mi </a><span class="menu-item delimiter"></span><a href="#" onclick="return false;" class="menu-item theme-switch" title="Cambia el tema">
+                    <i class="fa-solid fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Efrain Colque ">Efrain Colque </a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="">Publicaciones</a><a class="menu-item" href="/tags/" title="">etiquetas </a><a class="menu-item" href="/categories/" title="">Categorias</a><a class="menu-item" href="/about/" title="">Sobre Mi</a><div class="menu-item"><a href="#" onclick="return false;" class="theme-switch" title="Cambia el tema">
+                    <i class="fa-solid fa-adjust fa-fw"></i>
+                </a>
+            </div></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contenido</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single" data-toc="disable"><div class="single-card" ><h2 class="single-title animated flipInX"></h2><div class="post-meta">
+                <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa-solid fa-user-circle fa-fw"></i>Autor</a></span></div>
+                <div class="post-meta-line"><span><i class="fa-regular fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="0001-01-01">0001-01-01</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw"></i>&nbsp;1671 palabras</span>&nbsp;
+                    <span><i class="fa-regular fa-clock fa-fw"></i>&nbsp;8 minutos</span>&nbsp;</div>
+            </div>
+            
+            <hr><div class="details toc" id="toc-static"  data-kept="">
+                    <div class="details-summary toc-title">
+                        <span>Contenido</span>
+                        <span><i class="details-icon fa-solid fa-angle-right"></i></span>
+                    </div>
+                    <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#algebra-lineal-y-teoria-matricial">Algebra Lineal y teoria matricial</a>
+      <ul>
+        <li><a href="#1-matrices">1 MATRICES</a></li>
+        <li><a href="#2-determinantes">2 DETERMINANTES</a></li>
+        <li><a href="#3-sistema-de-ecuaciones-lineales">3 SISTEMA DE ECUACIONES LINEALES</a></li>
+        <li><a href="#4-espacios-vectoriales">4 ESPACIOS VECTORIALES</a></li>
+        <li><a href="#5-espacios-vectoriales-con-producto-interior">5 ESPACIOS VECTORIALES CON PRODUCTO INTERIOR</a></li>
+        <li><a href="#6-transformaciones-lineales">6 TRANSFORMACIONES LINEALES</a></li>
+        <li><a href="#7-autovalores-y-autovectores">7 AUTOVALORES Y AUTOVECTORES</a></li>
+      </ul>
+    </li>
+    <li><a href="#programacion">PROGRAMACION</a>
+      <ul>
+        <li><a href="#1-algoritmos-y-programación">1 ALGORITMOS Y PROGRAMACIÓN</a></li>
+        <li><a href="#2-estructuras-secuenciales">2 ESTRUCTURAS SECUENCIALES</a></li>
+        <li><a href="#3-estructuras-selectivas">3 ESTRUCTURAS SELECTIVAS</a></li>
+        <li><a href="#4-algoritmos-repetitivos">4 ALGORITMOS REPETITIVOS</a></li>
+        <li><a href="#5-fundamentos-de-programación">5 FUNDAMENTOS DE PROGRAMACIÓN</a></li>
+        <li><a href="#6-arreglos">6 ARREGLOS</a></li>
+        <li><a href="#7-sub-programas">7 SUB PROGRAMAS</a></li>
+      </ul>
+    </li>
+    <li><a href="#calculo-ii">CALCULO II</a>
+      <ul>
+        <li><a href="#1-vectores">1 VECTORES</a></li>
+        <li><a href="#2-geometría-analítica-en-el-espacio">2 GEOMETRÍA ANALÍTICA EN EL ESPACIO</a></li>
+        <li><a href="#3-funciones-vectoriales-de-variable-escalar">3 FUNCIONES VECTORIALES DE VARIABLE ESCALAR</a></li>
+        <li><a href="#4-funciones-escalares-de-variable-vectorial">4 FUNCIONES ESCALARES DE VARIABLE VECTORIAL</a></li>
+        <li><a href="#5-derivadas-parciales">5 DERIVADAS PARCIALES</a></li>
+        <li><a href="#6-aplicaciones-de-la-derivadas-parciales">6 APLICACIONES DE LA DERIVADAS PARCIALES</a></li>
+        <li><a href="#7-integrales-múltiples">7 INTEGRALES MÚLTIPLES</a></li>
+        <li><a href="#8-aplicaciones-de-las-integrales-múltiples">8 APLICACIONES DE LAS INTEGRALES MÚLTIPLES</a></li>
+      </ul>
+    </li>
+    <li><a href="#estadistica-i">ESTADISTICA I</a>
+      <ul>
+        <li><a href="#1-conceptos-preliminares">1 CONCEPTOS PRELIMINARES</a></li>
+        <li><a href="#2-distribución-de-frecuencias-univariadas">2 DISTRIBUCIÓN DE FRECUENCIAS UNIVARIADAS</a></li>
+        <li><a href="#3-medidas-de-tendencia-central-de-orden-de-dispersión-y-forma">3 MEDIDAS DE TENDENCIA CENTRAL, DE ORDEN, DE DISPERSIÓN Y FORMA</a></li>
+        <li><a href="#4-distribuciones-bivariantes-y-tablas-de-contingencia">4 DISTRIBUCIONES BIVARIANTES Y TABLAS DE CONTINGENCIA</a></li>
+        <li><a href="#5-ajustes-de-regresión-y-correlación">5 AJUSTES DE REGRESIÓN Y CORRELACIÓN</a></li>
+        <li><a href="#6-teoría-de-probabilidades">6 TEORÍA DE PROBABILIDADES</a></li>
+        <li><a href="#7-variables-aleatorias">7 VARIABLES ALEATORIAS</a></li>
+        <li><a href="#8-modelos-de-probabilidades-discretas">8 MODELOS DE PROBABILIDADES DISCRETAS</a></li>
+        <li><a href="#9-modelos-de-probabilidades-continuas">9 MODELOS DE PROBABILIDADES CONTINUAS</a></li>
+      </ul>
+    </li>
+    <li><a href="#fisica-ii">FISICA II</a>
+      <ul>
+        <li><a href="#1-fundamentos-de-la-mecánica-de-los-fluidos">1 FUNDAMENTOS DE LA MECÁNICA DE LOS FLUIDOS</a></li>
+        <li><a href="#2-elementos-de-elasticidad">2 ELEMENTOS DE ELASTICIDAD</a></li>
+        <li><a href="#3-calor-termometría-y-dilatación-térmica">3 CALOR, TERMOMETRÍA Y DILATACIÓN TÉRMICA</a></li>
+        <li><a href="#4-propagación-del-calor">4 PROPAGACIÓN DEL CALOR</a></li>
+        <li><a href="#5-primer-y-segundo-principios-de-la-termodinámica">5 PRIMER Y SEGUNDO PRINCIPIOS DE LA TERMODINÁMICA</a></li>
+        <li><a href="#6-teoría-cinética-de-los-gases">6 TEORÍA CINÉTICA DE LOS GASES</a></li>
+        <li><a href="#7-ondas-elásticas">7 ONDAS ELÁSTICAS</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+                </div><div class="content" id="content"><h2 id="algebra-lineal-y-teoria-matricial">Algebra Lineal y teoria matricial</h2>
+<h3 id="1-matrices">1 MATRICES</h3>
+<p>1.1. Definición y generación de matrices
+1.2. Operaciones con matrices
+1.3. Propiedades de las operaciones
+1.4. Operaciones elementales con las filas de una matriz
+1.5. Matriz inversa y sus propiedades
+1.6. Un método para invertir matrices (Escalonamiento)
+1.7. Matriz traspuesta y sus propiedades
+1.8. Matrices especiales.
+1.9. Equivalencia y semejanza de matrices
+1.10 Factorización LDU 1.11 Matlab aplicado al tema</p>
+<h3 id="2-determinantes">2 DETERMINANTES</h3>
+<p>2.1. Definición
+2.2. Métodos para calcular determinantes
+2.3. Propiedades
+2.4. Desarrollo de La Place
+2.5. Matriz de cofactores y matriz adjunta. Propiedades
+2.6. Inversa de matrices. Propiedades
+2.7. Métodos de inversión
+2.8. Matlab aplicado al tema</p>
+<h3 id="3-sistema-de-ecuaciones-lineales">3 SISTEMA DE ECUACIONES LINEALES</h3>
+<p>3.1. Definición
+3.2. Forma matricial
+3.3. Método de Gauss Jordan
+3.4. Clasificación de los SEL según la solución
+3.5 Método de la inversa
+3.6. Teorema de Rouché-Fro benius
+3.7. Discusión de consistencia e inconsistencia del SEL
+3.8 Sistemas homogéneos de ecuaciones lineales
+3.9 Método de Cramer
+3.10 Matlab aplicado al tema</p>
+<h3 id="4-espacios-vectoriales">4 ESPACIOS VECTORIALES</h3>
+<p>4.1. Espacios vectoriales
+4.2. Axiomas de los espacios vectoriales
+4.3. Sub espacios vectoriales. Propiedades
+4.4 Combinaciones lineales
+4.5. Dependencia e independencia lineal
+4.6. Conjunto generador
+4.7 Generación de subespacios
+4.8. Base y dimensión de un espacio vectorial
+4.9 Operaciones con subespacios
+4.10. Matlab aplicado al tema</p>
+<h3 id="5-espacios-vectoriales-con-producto-interior">5 ESPACIOS VECTORIALES CON PRODUCTO INTERIOR</h3>
+<p>5.1. Definición de Producto interior
+5.2 Axiomas de Producto interior
+5.3 Modulo, distancia y ángulo
+5.4. Vectores ortogonales
+5.5 Conjuntos ortogonales
+5.6 Complemento ortogonal de Subespacios
+5.7. Proyección ortogonal
+5.8. Bases ortonormales
+5.9. Proyección sobre bases ortonormales
+5.10. Proceso de Gram – Schmidt.
+5.11. Matlab aplicado al tema</p>
+<h3 id="6-transformaciones-lineales">6 TRANSFORMACIONES LINEALES</h3>
+<p>6.1. Definición de Transformación lineal. Axiomas
+6.2. Imagen y núcleo
+6.3. Vector y matriz de coordenadas
+6.4. Matrices de Transición
+6.5 Representaciones matriciales de las Transformaciones lineales
+6.7 Clasificación de las Transformaciones lineales
+6.8 Operaciones con Trasformaciones lineales
+6.9 Composición de transformaciones lineales.
+6.10 Cambio de base y semejanza 6.11 Matlab aplicado al tema</p>
+<h3 id="7-autovalores-y-autovectores">7 AUTOVALORES Y AUTOVECTORES</h3>
+<p>7.1. Definición y Propiedades
+7.2. Espectro de la matriz
+7.3. Base de los espacios propios
+7.4. Diagonalización de matrices
+7.5 Diagonalización ortogonal
+7.7. Funciones matriciales
+7.8. Teorema de Cayley - Hamilton
+7.9. Forma Jordan de matrices
+7.10 Aplicaciones en cuádricas
+7.11 Matlab aplicado al tema.</p>
+<h2 id="programacion">PROGRAMACION</h2>
+<h3 id="1-algoritmos-y-programación">1 ALGORITMOS Y PROGRAMACIÓN</h3>
+<p>1.1. Evolución de la ciencia computación
+1.2 Componentes físicos y lógicos de un computador
+1.3 Modelado de datos en binario de caracteres y números
+1.4 Conversión entre bases numéricas (binaria, decimal, octal hexadecimal)
+1.5 Definición de algoritmos
+1.6. Características de los algoritmos
+1.7. Lenguajes de programación para la representación de algoritmos</p>
+<h3 id="2-estructuras-secuenciales">2 ESTRUCTURAS SECUENCIALES</h3>
+<p>2.1. Metodología de resolución de problemas
+2.2. Tipos de datos numéricos y alfanuméricos
+2.3. Variables y constantes
+2.4. Asignaciones
+2.5. Expresiones aritméticas, lógicas y relacionales
+2.6. Entrada/salida de datos
+2.7. Representación en seudocódigo y diagrama de flujos</p>
+<h3 id="3-estructuras-selectivas">3 ESTRUCTURAS SELECTIVAS</h3>
+<p>3.1. Estructura de un algoritmo de selección
+3.2. Estructura selectiva simple
+3.3. Estructura selectiva compuesta
+3.4. Estructuras selectivas anidadas
+3.5. Estructura selectiva múltiple
+3.6. Prueba de escritorio y depuración
+3.7. Aplicaciones al algebra y al cálculo(Diagrama de flujo, Pseudocódigo y Lenguaje de Programación)</p>
+<h3 id="4-algoritmos-repetitivos">4 ALGORITMOS REPETITIVOS</h3>
+<p>4.1. Conceptos de Bucle e Iteración
+4.2. Diseño de la Estructura de algoritmos repetitivos
+4.3. Control de ingreso, permanencia y salida de un bucle (lógicas while y until, Variables controladoras y acumuladoras)
+4.4. Estructura Hacer – Mientras
+4.5. Estructura Mientras – Hacer
+4.6. Estructura Para – Mientras – Paso
+4.7. Estructuras repetitivas anidadas
+4.8. Aplicaciones al algebra y calculo</p>
+<h3 id="5-fundamentos-de-programación">5 FUNDAMENTOS DE PROGRAMACIÓN</h3>
+<p>5.1. Proceso de codificación, compilación y ejecución de un programa
+5.2. Estructura de un programa
+5.3. Elementos secuenciales de un programa
+5.4. Funciones proporcionadas por el compilador
+5.5. Aplicaciones empleando estructuras secuenciales, selectivas y repetitivas.</p>
+<h3 id="6-arreglos">6 ARREGLOS</h3>
+<p>6.1. Definición de arreglo
+6.2. Estructura, elementos y recorrido de arreglos
+6.3. Arreglos unidimensionales
+6.4. Ordenación y búsqueda
+6.5. Arreglos bidimensionales
+6.6. Aplicaciones en algebra y calculo</p>
+<h3 id="7-sub-programas">7 SUB PROGRAMAS</h3>
+<p>7.1. Divide y vencerás
+7.2. Introducción a procedimientos
+7.3. Introducción a funciones
+7.4. Funciones predefinidas básicas (Librerías)</p>
+<h2 id="calculo-ii">CALCULO II</h2>
+<h3 id="1-vectores">1 VECTORES</h3>
+<p>1.1. Vectores Rᶯ
+1.2. Representación geométrica de vectores
+1.3. Módulo de un vector
+1.4. Paralelismo y Ortogonalidad de vectores
+1.5. Producto vectorial. Ángulo entre vectores
+1.6. Proyecciones y vectores componentes.</p>
+<h3 id="2-geometría-analítica-en-el-espacio">2 GEOMETRÍA ANALÍTICA EN EL ESPACIO</h3>
+<p>2.1. Coordenadas rectangulares en tres dimensiones
+2.2. Rectas en el espacio
+2.3. Planos en el espacio
+2.4. Distancias
+2.5. Superficies cuádricas</p>
+<h3 id="3-funciones-vectoriales-de-variable-escalar">3 FUNCIONES VECTORIALES DE VARIABLE ESCALAR</h3>
+<p>3.1. Funciones vectoriales de una variable real
+3.2. Curvas
+3.3. Límites y Continuidad
+3.4. Derivada de una función vectorial
+3.5. Vectores unitarios tangente, normal, binormal, torsión curvatura
+3.6. Longitud de arco</p>
+<h3 id="4-funciones-escalares-de-variable-vectorial">4 FUNCIONES ESCALARES DE VARIABLE VECTORIAL</h3>
+<p>4.1. Definición de Función
+4.2. Campo de existencia
+4.3. Métodos de graficar funciones
+4.4. Curvas de Nivel
+4.5. Límites en funciones de variables
+4.6. Continuidad</p>
+<h3 id="5-derivadas-parciales">5 DERIVADAS PARCIALES</h3>
+<p>5.1. Definición de derivada parcial
+5.2. Derivada direccional
+5.3. Derivadas parciales de orden superior
+5.4. Regla de la cadena
+5.5. Derivación implícita
+5.6. Incrementos y diferenciales
+5.7. Diferencial exacta
+5.8. Jacobianos</p>
+<h3 id="6-aplicaciones-de-la-derivadas-parciales">6 APLICACIONES DE LA DERIVADAS PARCIALES</h3>
+<p>6.1. Planos tangentes y rectas normales a superficies
+6.2. Máximos y mínimos
+6.3. Máximos y mínimos condicionados
+6.4. Problemas de planteo</p>
+<h3 id="7-integrales-múltiples">7 INTEGRALES MÚLTIPLES</h3>
+<p>7.1. Integral doble sobre una región R. Propiedades
+7.2. Cambio de orden de Integración
+7.3. Cálculo de integrales dobles con transformación
+7.4. Cálculo de integrales triples
+7.5. Cálculo de integrales triples con transformación</p>
+<h3 id="8-aplicaciones-de-las-integrales-múltiples">8 APLICACIONES DE LAS INTEGRALES MÚLTIPLES</h3>
+<p>8.1. Aplicaciones de las integrales dobles
+8.2. Aplicaciones de las integrales Triples.</p>
+<h2 id="estadistica-i">ESTADISTICA I</h2>
+<h3 id="1-conceptos-preliminares">1 CONCEPTOS PRELIMINARES</h3>
+<p>1.1. Concepto de Variable
+1.2. Tipos de Variables: cuantitativa (discreto o continuo), cualitativa (Ordinal o nominal)
+1.3. Unidad de medida
+1.4. Cobertura geográfica del dato
+1.5. Población o muestra (Parámetro o estimador)
+1.6. Fuente de datos</p>
+<h3 id="2-distribución-de-frecuencias-univariadas">2 DISTRIBUCIÓN DE FRECUENCIAS UNIVARIADAS</h3>
+<p>2.1. Rango o Recorrido.
+2.2. Intervalos de Clase
+2.3. Ancho de clase
+2.4. Cuadros o tablas de distribución de frecuencias
+2.5. Gráficas Cuantitativas y Cualitativas
+2.6. Diferencia entre información Primaria y Secundaria</p>
+<h3 id="3-medidas-de-tendencia-central-de-orden-de-dispersión-y-forma">3 MEDIDAS DE TENDENCIA CENTRAL, DE ORDEN, DE DISPERSIÓN Y FORMA</h3>
+<p>3.1. La Media aritmética, Cuadrática, armónica y geométrica. Mediana y Moda.
+3.2. Fractiles: cuartiles, deciles, percentiles.
+3.3. Varianza, Desviación Típica o Estándar, coeficiente de variación
+3.4. Momentos con respecto al Origen y momentos con respecto a la media
+3.5. Asimetría y deformación, Curtosis, Rango intercuartílico; coeficiente de asimetría.</p>
+<h3 id="4-distribuciones-bivariantes-y-tablas-de-contingencia">4 DISTRIBUCIONES BIVARIANTES Y TABLAS DE CONTINGENCIA</h3>
+<p>4.1. Tablas de doble entrada
+4.2. Tablas de contingencia
+4.3. Distribuciones condicionales
+4.4. Medias y Varianzas condicionales
+4.5. Covarianza y Coeficiente de Correlación
+4.6. Coeficiente de contingencia</p>
+<h3 id="5-ajustes-de-regresión-y-correlación">5 AJUSTES DE REGRESIÓN Y CORRELACIÓN</h3>
+<p>5.1. Modelo lineal simple
+5.2. Modelo no lineal
+5.3. Mínimos Cuadrados para un modelo lineal
+5.4. Proyecciones y retrospecciones
+5.5. Correlación y coeficiente de determinación</p>
+<h3 id="6-teoría-de-probabilidades">6 TEORÍA DE PROBABILIDADES</h3>
+<p>6.1. Experimento determinístico y no determinístico (aleatorio) 6.2. Espacio muestral, evento o suceso
+6.3. Concepto de probabilidad
+6.4. Probabilidad condicional
+6.5. Teoremas Fundamentales de Probabilidad
+6.6. Probabilidad total
+6.7. Teorema de Bayes</p>
+<h3 id="7-variables-aleatorias">7 VARIABLES ALEATORIAS</h3>
+<p>7.1. Definición y su relación con la teoría de probabilidades
+7.2. Función de distribución discreta y continua
+7.3. Representación gráfica
+7.4. Esperanza matemática y sus propiedades
+7.5. Momentos con respecto al origen y a la media
+7.6. Varianza y propiedades
+7.7. Función generatriz de momentos</p>
+<h3 id="8-modelos-de-probabilidades-discretas">8 MODELOS DE PROBABILIDADES DISCRETAS</h3>
+<p>8.1. Bernoulli
+8.2. Binomial
+8.3. Poisson
+8.4. Hipergeométrica
+8.5. Geométrica
+8.6. Teorema central del límite
+8.7. Propiedades y aproximaciones</p>
+<h3 id="9-modelos-de-probabilidades-continuas">9 MODELOS DE PROBABILIDADES CONTINUAS</h3>
+<p>9.1. Uniforme
+9.2. Exponencial
+9.3. Normal
+9.4. Chi cuadrado
+9.5. Fisher
+9.6. T student</p>
+<h2 id="fisica-ii">FISICA II</h2>
+<h3 id="1-fundamentos-de-la-mecánica-de-los-fluidos">1 FUNDAMENTOS DE LA MECÁNICA DE LOS FLUIDOS</h3>
+<p>1.1 Estática de los fluidos
+1.2 Densidad, peso específico y volumen especifico
+1.3 Presión de un fluido
+1.4 Ecuación fundamental de la estática de los fluidos
+1.5 Medida de la presión
+1.6 Principio de Arquímedes
+1.7 Estabilidad de un barco
+1.8 Fuerzas hidrostáticas sobre superficies planas
+1.9 Tensión superficial y capilaridad
+1.10 Dinámica de los fluidos
+1.11 Conceptos generales del flujo de fluidos
+1.12 Caudal y ecuación de continuidad
+1.13 Ecuación de Bernoulli
+1.14 Líneas piezométricas
+1.15 Aplicaciones: a) Teorema de Torricelli, b) Venturi, c) Tubo de Pitot</p>
+<h3 id="2-elementos-de-elasticidad">2 ELEMENTOS DE ELASTICIDAD</h3>
+<p>2.1. Conceptos y Definiciones
+2.2. Tensión y deformación
+2.3. Ley de Hooke
+2.4. Módulo de Yong
+2.5. Coeficiente Poisson
+2.6 Tensiones tangenciales 2.7. Torsión
+2.8. Relaciones entre las constantes elásticas
+2.9. Flexión
+2.10. Deformaciones volumétricas</p>
+<h3 id="3-calor-termometría-y-dilatación-térmica">3 CALOR, TERMOMETRÍA Y DILATACIÓN TÉRMICA</h3>
+<p>3.1. Calor
+3.2. Termometría y dilatación
+3.3. Escalas termométricas
+3.4. Dilataciones: Lineal, superficial y volumétrico
+3.5. Dilatación de cuerpos aniso trópicos
+3.6. Esfuerzos de origen Térmico
+3.7. Peso específico y densidad en función de la temperatura 3.8. Capacidad calorífica y calor especifico
+3.9. Equivalente mecánico del calor
+3.10 Calor de combustión y Energía interna</p>
+<h3 id="4-propagación-del-calor">4 PROPAGACIÓN DEL CALOR</h3>
+<p>4.1. Introducción
+4.2 Conducción del calor
+4.3. Coeficiente de conductividad térmica
+4.4. Leyes fundamentales de la conducción delo calor
+4.5. Flujo de calor a través de muros
+4.6. Flujo de calor a través de superficies esférica y cilíndrica
+4.7. Ecuación de Fourier
+4.8. Convección
+4.9. Radiación y Ley de Stefan
+4.10 El emisor ideal.</p>
+<h3 id="5-primer-y-segundo-principios-de-la-termodinámica">5 PRIMER Y SEGUNDO PRINCIPIOS DE LA TERMODINÁMICA</h3>
+<p>5.1. Termodinámica. Conceptos
+5.2. Primer Principio de la Termodinámica
+5.3. Ecuación Fundamental
+5.4. Energía interna
+5.5. Calores específicos molares de un gas
+5.6. Transformaciones: Isóbaras, isocoras, isotermas y adiabáticas
+5.7 Compresibilidad de un gas
+5.8 Segundo Principio de la Termodinámica
+5.9 Transformaciones reversibles e irreversibles
+5.10 Rendimiento de la máquinas térmicas
+5.11 Motor de combustión
+5.12 Ciclos Otto y Carnot
+5.13 Entropía</p>
+<h3 id="6-teoría-cinética-de-los-gases">6 TEORÍA CINÉTICA DE LOS GASES</h3>
+<p>6.1. Conceptos y Definiciones
+6.2. Deducción de la Ley de los gases perfectos
+6.3. Constante de Boltzman
+6.4 Energía interna de un gas
+6.5. Cálculo de calores específicos de un gas
+6.6 Movimiento Browniano
+6.7. Ecuación de Van der Waals
+6.8. Constantes críticas de un gas</p>
+<h3 id="7-ondas-elásticas">7 ONDAS ELÁSTICAS</h3>
+<p>7.1. Conceptos y Definiciones
+7.2. Tipos de ondas: Ondas elásticas transversales y longitudinales
+7.3. Ecuación de las ondas
+7.4 Velocidad de las ondas
+7.5. Potencia e intensidad en el movimiento ondulatorio
+7.6. Ondas sonoras
+7.7. Ondas estacionarias y viajeras
+7.8. Nivel de intensidad de sonido (dB)
+7.9. Interferencia de ondas
+7.10. Resonancia mecánica
+7.11 Efecto Doppler</p>
+</div><div class="post-footer" id="post-footer">
+  <div class="post-info"><div class="post-info-tag"><span><a href="/tags/is/">IS</a>
+      </span></div><div class="post-info-line"><div class="post-info-mod">
+	<span>Actualizado el 0001-01-01</span>
+      </div><div class="post-info-mod"></div>
+    </div></div><div class="post-nav"><a href="/posts/3er-semestre/" class="prev" rel="prev" title=""><i class="fa-solid fa-angle-left fa-fw"></i>Previous Post</a>
+    <a href="/posts/1er-semestre/" class="next" rel="next" title="">Next Post<i class="fa-solid fa-angle-right fa-fw"></i></a></div></div>
+</div></article></div>
+            </main>
+            <footer class="footer"><div class="footer-container"><div class="footer-line">Provisto por <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.122.0">Hugo</a> | Tema - <a href="https://github.com/khusika/FeelIt" target="_blank" rel="noopener noreffer" title="FeelIt 1.0.2"><i class="fa-solid fa-hand-holding-heart fa-fw"></i> FeelIt</a>
+        </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw"></i><span itemprop="copyrightYear">2024</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/"></a></span></div>
+</div>
+</footer>
+        </div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Volver arriba">
+                <i class="fa-solid fa-chevron-up fa-fw"></i>
+            </a></div><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/clipboard/clipboard.min.js"></script><script>window.config={"code":{"copyTitle":"Copiar al portapapeles","maxShownLines":10},"comment":{}};</script><script src="/js/theme.min.js"></script></body></html>

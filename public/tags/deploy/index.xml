@@ -5,8 +5,8 @@
         <description>Deploy - Etiqueta - Efrain Colque </description>
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://joe4334e.github.io/tags/deploy/" rel="self" type="application/rss+xml" /><item>
     <title>Uso del Tema FeelIt</title>
-    <link>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</link>
-    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/creacion-de-blog-y-deploy/</guid>
+    <link>http://joe4334e.github.io/posts/deploy/creacion-de-blog-y-deploy/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate><guid>http://joe4334e.github.io/posts/deploy/creacion-de-blog-y-deploy/</guid>
     <description><![CDATA[Creacion de blog con hugo y deploy desde 0 con el tema Feelit Para crear un blog con Hugo y desplegarlo desde cero con el tema Feelit, puedes seguir los siguientes pasos:
 Instalación de Hugo: Descarga e instala Hugo siguiendo las instrucciones de la documentación oficial: https://gohugo.io/getting-started/installing/ Crear un nuevo sitio de Hugo: Abre una terminal y ejecuta el siguiente comando para crear un nuevo sitio de Hugo: hugo new site nombre-del-blog Descargar el tema Feelit: Ve al repositorio oficial del tema Feelit en GitHub: https://github.]]></description>
 </item>

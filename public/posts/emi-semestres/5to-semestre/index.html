@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title> - Efrain Colque </title><meta name="description" content=""><meta property="og:title" content="" />
+<meta property="og:description" content="25. ANÁLISIS Y DISEÑO DE SISTEMAS I 1 FUNDAMENTOS DEL ANÁLISIS DE SISTEMAS 1.1. Definición de los sistemas de información y su contextualización en las organizaciones. 1.2. El modelos estructurado o cascada 1.3. El modelo de prototipos 1.4. El modelo DRA 1.5. El modelo basado en componentes 1.6. El modelo incremental 1.7. El modelo evolutivo
+2 ANÁLISIS DE LOS REQUERIMIENTOS DE INFORMACIÓN 2.1. Definición de participantes en los sistemas 2.2. Los usuarios y su heterogeneidad 2." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://joe4334e.github.io/posts/emi-semestres/5to-semestre/" /><meta property="article:section" content="posts" />
+
+
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="25. ANÁLISIS Y DISEÑO DE SISTEMAS I 1 FUNDAMENTOS DEL ANÁLISIS DE SISTEMAS 1.1. Definición de los sistemas de información y su contextualización en las organizaciones. 1.2. El modelos estructurado o cascada 1.3. El modelo de prototipos 1.4. El modelo DRA 1.5. El modelo basado en componentes 1.6. El modelo incremental 1.7. El modelo evolutivo
+2 ANÁLISIS DE LOS REQUERIMIENTOS DE INFORMACIÓN 2.1. Definición de participantes en los sistemas 2.2. Los usuarios y su heterogeneidad 2."/>
+<meta name="application-name" content="Efrain Colque ">
+<meta name="apple-mobile-web-app-title" content="Efrain Colque "><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://joe4334e.github.io/posts/emi-semestres/5to-semestre/" /><link rel="prev" href="http://joe4334e.github.io/posts/emi-semestres/6to-semestre/" /><link rel="next" href="http://joe4334e.github.io/posts/emi-semestres/4to-semestre/" /><link rel="stylesheet" href="/css/page.min.css"><link rel="stylesheet" href="/css/home.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "",
+        "inLanguage": "es",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/joe4334e.github.io\/posts\/emi-semestres\/5to-semestre\/"
+        },"genre": "posts","keywords": "IS","wordcount":  1653 ,
+        "url": "http:\/\/joe4334e.github.io\/posts\/emi-semestres\/5to-semestre\/","publisher": {
+            "@type": "Organization",
+            "name": "Autor"},"author": {
+                "@type": "Person",
+                "name": "Autor"
+            },"description": ""
+    }
+    </script></head><body data-header-desktop="" data-header-mobile=""><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Efrain Colque ">Efrain Colque </a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Publicaciones </a><a class="menu-item" href="/tags/"> etiquetas  </a><a class="menu-item" href="/categories/"> Categorias </a><a class="menu-item" href="/about/"> Sobre Mi </a><span class="menu-item delimiter"></span><a href="#" onclick="return false;" class="menu-item theme-switch" title="Cambia el tema">
+                    <i class="fa-solid fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Efrain Colque ">Efrain Colque </a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="">Publicaciones</a><a class="menu-item" href="/tags/" title="">etiquetas </a><a class="menu-item" href="/categories/" title="">Categorias</a><a class="menu-item" href="/about/" title="">Sobre Mi</a><div class="menu-item"><a href="#" onclick="return false;" class="theme-switch" title="Cambia el tema">
+                    <i class="fa-solid fa-adjust fa-fw"></i>
+                </a>
+            </div></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contenido</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single" data-toc="disable"><div class="single-card" ><h2 class="single-title animated flipInX"></h2><div class="post-meta">
+                <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa-solid fa-user-circle fa-fw"></i>Autor</a></span></div>
+                <div class="post-meta-line"><span><i class="fa-regular fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="0001-01-01">0001-01-01</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw"></i>&nbsp;1653 palabras</span>&nbsp;
+                    <span><i class="fa-regular fa-clock fa-fw"></i>&nbsp;8 minutos</span>&nbsp;</div>
+            </div>
+            
+            <hr><div class="details toc" id="toc-static"  data-kept="">
+                    <div class="details-summary toc-title">
+                        <span>Contenido</span>
+                        <span><i class="details-icon fa-solid fa-angle-right"></i></span>
+                    </div>
+                    <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#25-análisis-y-diseño-de-sistemas-i">25. ANÁLISIS Y DISEÑO DE SISTEMAS I</a>
+      <ul>
+        <li><a href="#1-fundamentos-del-análisis-de-sistemas">1 FUNDAMENTOS DEL ANÁLISIS DE SISTEMAS</a></li>
+        <li><a href="#2-análisis-de-los-requerimientos-de-información">2 ANÁLISIS DE LOS REQUERIMIENTOS DE INFORMACIÓN</a></li>
+        <li><a href="#3-el-proceso-de-análisis-de-sistemas">3 EL PROCESO DE ANÁLISIS DE SISTEMAS</a></li>
+        <li><a href="#4-fundamentos-del-diseño-de-sistemas">4 FUNDAMENTOS DEL DISEÑO DE SISTEMAS</a></li>
+        <li><a href="#5-ingeniería-e-implementación-de-sistemas">5 INGENIERÍA E IMPLEMENTACIÓN DE SISTEMAS</a></li>
+        <li><a href="#6-aseguramiento-e-implementación-de-la-calidad">6 ASEGURAMIENTO E IMPLEMENTACIÓN DE LA CALIDAD</a></li>
+        <li><a href="#7-evolución-y-mantenimiento">7 EVOLUCIÓN Y MANTENIMIENTO</a></li>
+      </ul>
+    </li>
+    <li><a href="#26-redes-de-computadoras-i">26. REDES DE COMPUTADORAS I</a>
+      <ul>
+        <li><a href="#1-fundamentos-de-los-sistemas-de-comunicaciones-y-redes-de-dispositivos">1 FUNDAMENTOS DE LOS SISTEMAS DE COMUNICACIONES Y REDES DE DISPOSITIVOS</a></li>
+        <li><a href="#2-modelos-osi-tcpip-y-sna">2 MODELOS OSI, TCP/IP Y SNA.</a></li>
+        <li><a href="#3-direccionamiento-de-ipv4-e-ipv6">3 DIRECCIONAMIENTO DE IPV4 E IPV6</a></li>
+        <li><a href="#4-planificación-y-cableado-de-una-red">4 PLANIFICACIÓN Y CABLEADO DE UNA RED</a></li>
+        <li><a href="#5-configuración-y-prueba-de-una-red">5 CONFIGURACIÓN Y PRUEBA DE UNA RED</a></li>
+        <li><a href="#6-conceptos-básicos-y-configuración-de-un-switch">6 CONCEPTOS BÁSICOS Y CONFIGURACIÓN DE UN SWITCH</a></li>
+        <li><a href="#7-vlans-y-enrutamiento-inter--vlan">7 VLANS Y ENRUTAMIENTO INTER – VLAN</a></li>
+      </ul>
+    </li>
+    <li><a href="#27-base-de-datos-ii">27. BASE DE DATOS II</a>
+      <ul>
+        <li><a href="#1-algoritmos-para-procesamiento-y-optimización-de-consultas">1 ALGORITMOS PARA PROCESAMIENTO Y OPTIMIZACIÓN DE CONSULTAS</a></li>
+        <li><a href="#2-diseño-físico-y-refinación-de-la-base-de-datos">2 DISEÑO FÍSICO Y REFINACIÓN DE LA BASE DE DATOS</a></li>
+        <li><a href="#3-técnicas-de-control-de-concurrencia">3 TÉCNICAS DE CONTROL DE CONCURRENCIA</a></li>
+        <li><a href="#4-base-de-datos-no-relacionales">4 BASE DE DATOS NO RELACIONALES</a></li>
+        <li><a href="#5-diseño-e-implementación-de-base-de-datos-no-relacionales">5 DISEÑO E IMPLEMENTACIÓN DE BASE DE DATOS NO RELACIONALES</a></li>
+        <li><a href="#6-bases-de-datos-distribuidos">6 BASES DE DATOS DISTRIBUIDOS</a></li>
+      </ul>
+    </li>
+    <li><a href="#28-inteligencia-artificial-i">28. INTELIGENCIA ARTIFICIAL I</a>
+      <ul>
+        <li><a href="#1-fundamentos-de-inteligencia-artificial-y-agentes-inteligentes">1 FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL Y AGENTES INTELIGENTES</a></li>
+        <li><a href="#2-agentes-que-planifican-sus-acciones">2 AGENTES QUE PLANIFICAN SUS ACCIONES</a></li>
+        <li><a href="#3-problemas-de-satisfacción-de-restricciones">3 PROBLEMAS DE SATISFACCIÓN DE RESTRICCIONES</a></li>
+        <li><a href="#4-agentes-con-adversarios">4 AGENTES CON ADVERSARIOS</a></li>
+        <li><a href="#5-incertidumbre">5 INCERTIDUMBRE</a></li>
+        <li><a href="#6-redes-de-bayes">6 REDES DE BAYES</a></li>
+        <li><a href="#7-modelos-ocultos-y-filtros">7 MODELOS OCULTOS Y FILTROS</a></li>
+        <li><a href="#8-aprendizaje-por-refuerzo">8 APRENDIZAJE POR REFUERZO</a></li>
+      </ul>
+    </li>
+    <li><a href="#29-taller-de-programación">29. TALLER DE PROGRAMACIÓN</a>
+      <ul>
+        <li><a href="#1-debugging">1 DEBUGGING</a></li>
+        <li><a href="#2-desarrollo-dirigido-por-pruebas">2 DESARROLLO DIRIGIDO POR PRUEBAS</a></li>
+        <li><a href="#3-diseño-oo">3 DISEÑO OO</a></li>
+        <li><a href="#4-persistencia">4 PERSISTENCIA</a></li>
+        <li><a href="#5-hilos">5 HILOS</a></li>
+        <li><a href="#6-programación-con-redes">6 PROGRAMACIÓN CON REDES</a></li>
+        <li><a href="#7-desarrollo-de-proyecto-del-taller">7 DESARROLLO DE PROYECTO DEL TALLER</a></li>
+      </ul>
+    </li>
+    <li><a href="#30-investigación-operativa-ii">30. INVESTIGACIÓN OPERATIVA II</a>
+      <ul>
+        <li><a href="#1-modelaje-de-grafos">1 MODELAJE DE GRAFOS</a></li>
+        <li><a href="#2-métodos-de-optimización--programación-dinámica">2 MÉTODOS DE OPTIMIZACIÓN – PROGRAMACIÓN DINÁMICA</a></li>
+        <li><a href="#3-programación-dinámica-estocástica">3 PROGRAMACIÓN DINÁMICA ESTOCÁSTICA</a></li>
+        <li><a href="#4-programación-no-lineal-univariante">4 PROGRAMACIÓN NO LINEAL UNIVARIANTE</a></li>
+        <li><a href="#5-programación-no-lineal-multivariante-sin-restricciones">5 PROGRAMACIÓN NO LINEAL MULTIVARIANTE SIN RESTRICCIONES</a></li>
+        <li><a href="#6-programación-no-lineal-multivariante">6 PROGRAMACIÓN NO LINEAL MULTIVARIANTE</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+                </div><div class="content" id="content"><h2 id="25-análisis-y-diseño-de-sistemas-i">25. ANÁLISIS Y DISEÑO DE SISTEMAS I</h2>
+<h3 id="1-fundamentos-del-análisis-de-sistemas">1 FUNDAMENTOS DEL ANÁLISIS DE SISTEMAS</h3>
+<p>1.1. Definición de los sistemas de información y su contextualización en las organizaciones.
+1.2. El modelos estructurado o cascada
+1.3. El modelo de prototipos
+1.4. El modelo DRA
+1.5. El modelo basado en componentes
+1.6. El modelo incremental
+1.7. El modelo evolutivo</p>
+<h3 id="2-análisis-de-los-requerimientos-de-información">2 ANÁLISIS DE LOS REQUERIMIENTOS DE INFORMACIÓN</h3>
+<p>2.1. Definición de participantes en los sistemas
+2.2. Los usuarios y su heterogeneidad
+2.3. Clasificación de los usuarios por categorías
+2.4. Clasificación de los usuarios en categorías por niveles de experiencia
+2.5. Los administradores y Auditores control de calidad y departamento de normas y estándares.
+2.6. El analista de sistemas
+2.7. Diseñadores de sistemas
+2.8. Los programadores y el personal de operaciones</p>
+<h3 id="3-el-proceso-de-análisis-de-sistemas">3 EL PROCESO DE ANÁLISIS DE SISTEMAS</h3>
+<p>3.1. Tipos de requisitos a determinar para el desarrollo de software
+3.2. Instrumentos de determinación de requisitos
+3.3. Determinación de los requisitos de acuerdo a un modelo de desarrollo
+3.4. Documento de requisitos del sistema
+3.5. Modelo de contexto modelo funcional
+3.6. Modelo de estados y transición de estados
+3.7. Modelo relacional y Diccionario de datos
+3.8. Documentos del análisis del sistema</p>
+<h3 id="4-fundamentos-del-diseño-de-sistemas">4 FUNDAMENTOS DEL DISEÑO DE SISTEMAS</h3>
+<p>4.1. Etapas del diseño y desarrollo
+4.2. Relación del diseño con los modelos de análisis
+4.3. Diseño de la arquitectura del sistema
+4.4. Diseño de la interfaz de usuario
+4.5. Diseño de la base de datos
+4.6. Algoritmos y flujo grama del sistema
+4.7. Codificación</p>
+<h3 id="5-ingeniería-e-implementación-de-sistemas">5 INGENIERÍA E IMPLEMENTACIÓN DE SISTEMAS</h3>
+<p>5.1. Reingeniería
+5.2. Herramientas de desarrollo rápido
+5.3. Implementación de sistemas
+5.4. Desarrollo de interfaces graficas
+5.5. Arquitectura del software según el tipo de sistemas desarrollado
+5.6. Selección de bases de datos y tipo de almacenamiento
+5.7. Plan de migración, integración e implantación de sistemas</p>
+<h3 id="6-aseguramiento-e-implementación-de-la-calidad">6 ASEGURAMIENTO E IMPLEMENTACIÓN DE LA CALIDAD</h3>
+<p>6.1. Definición de aseguramiento e implementación de la calidad 6.2. Gestión de pruebas
+6.3. Clasificación de tipo de pruebas de calidad
+6.4. Evaluación de las pruebas
+6.5. Automatización de pruebas de software
+6.6. Documentos de conformidad del sistema de información</p>
+<h3 id="7-evolución-y-mantenimiento">7 EVOLUCIÓN Y MANTENIMIENTO</h3>
+<p>7.1. Evolución de los sistemas de información
+7.2. Mantenimiento de los sistemas de información
+7.3. Soporte de los sistemas de información
+7.4. Tiempos de vida de los sistemas de información
+7.5. Sistemas de información parametrizados</p>
+<h2 id="26-redes-de-computadoras-i">26. REDES DE COMPUTADORAS I</h2>
+<h3 id="1-fundamentos-de-los-sistemas-de-comunicaciones-y-redes-de-dispositivos">1 FUNDAMENTOS DE LOS SISTEMAS DE COMUNICACIONES Y REDES DE DISPOSITIVOS</h3>
+<p>1.1 Conceptos básicos de comunicación de datos.
+1.2 Formas y tipos de transmisión.
+1.3 Protocolos y estándares.
+1.4 Elementos de la comunicación de datos.
+1.5 Redes LAN, WAN y la internet.</p>
+<h3 id="2-modelos-osi-tcpip-y-sna">2 MODELOS OSI, TCP/IP Y SNA.</h3>
+<p>2.1. Razón e Importancia de los modelos.
+2.2. El Modelo OSI, capas.
+2.3. El Modelo TCP/IP, capas.
+2.4. El Modelo SNA. 2.5. Aplicaciones.</p>
+<h3 id="3-direccionamiento-de-ipv4-e-ipv6">3 DIRECCIONAMIENTO DE IPV4 E IPV6</h3>
+<p>3.1 Direcciones IPv4.
+3.2 Direcciones para distintos propósitos.
+3.3 Asignación de direcciones.
+3.4 Calculo de direcciones.
+3.5 Testeo de la capa de red</p>
+<h3 id="4-planificación-y-cableado-de-una-red">4 PLANIFICACIÓN Y CABLEADO DE UNA RED</h3>
+<p>4.1 LANs.
+4.2 Desarrollo de un esquema de direccionamiento.
+4.3 Calculo de subredes.
+4.4 Conexiones entre dispositivos.</p>
+<h3 id="5-configuración-y-prueba-de-una-red">5 CONFIGURACIÓN Y PRUEBA DE UNA RED</h3>
+<p>5.1 Características de Ethernet
+5.2 Comunicación dentro de una LAN.
+5.3 La trama de Ethernet.
+5.4 Control de acceso al medio de Ethernet.
+5.5 Capa Física de Ethernet.
+5.6 Hubs y Switchs.
+5.7 ARP</p>
+<h3 id="6-conceptos-básicos-y-configuración-de-un-switch">6 CONCEPTOS BÁSICOS Y CONFIGURACIÓN DE UN SWITCH</h3>
+<p>6.1 Características de la LAN Ethernet/802.3.
+6.2 Reenvío de Frames utilizando un switch.
+6.3 Configuración del switch.
+6.4 Configuración de seguridad del switch.</p>
+<h3 id="7-vlans-y-enrutamiento-inter--vlan">7 VLANS Y ENRUTAMIENTO INTER – VLAN</h3>
+<p>7.1 Conceptualización de la VLAN.
+7.2 VLAN Trunking.
+7.3 Configurar VLANs y Trunks.
+7.4 Routers y redes.
+7.5 Configuración de routers.
+7.6 Enrutamiento Inter-VLAN.
+7.7 Configuración de enrutamiento Inter-VLAN.</p>
+<h2 id="27-base-de-datos-ii">27. BASE DE DATOS II</h2>
+<h3 id="1-algoritmos-para-procesamiento-y-optimización-de-consultas">1 ALGORITMOS PARA PROCESAMIENTO Y OPTIMIZACIÓN DE CONSULTAS</h3>
+<p>1.1. INTRODUCCIÓN A LA OPTIMIZACIÓN DE CONSULTAS
+1.2. TRADUCCIÓN DE CONSULTAS SQL AL ALGEBRA RELACIONAL.
+1.3. ALGORITMOS PARA LAS OPERACIONES SELECCIÓN, PROYECCIÓN, JOIN, Y OTROS
+1.4. UTILIZACIÓN DE LA HEURÍSTICA EN LA OPTIMIZACIÓN DE CONSULTAS
+1.5. LA ESTIMACIÓN DE COSTES EN LA OPTIMIZACIÓN DE CONSULTAS.
+1.6. REVISIÓN DE LA OPTIMIZACIÓN DE CONSULTAS</p>
+<h3 id="2-diseño-físico-y-refinación-de-la-base-de-datos">2 DISEÑO FÍSICO Y REFINACIÓN DE LA BASE DE DATOS</h3>
+<p>2.1. DISEÑO FÍSICO DE LAS BASES DE DATOS RELACIONALES
+2.2. FACTORES QUE INFLUYEN EN EL DISEÑO FÍSICO DE LAS BASES DE DATOS
+2.3. DECISIONES SOBRE EL DISEÑO FÍSICO DE LA BASE DE DATOS
+2.4. VISIÓN GENERAL DE LA REFINACIÓN
+2.5. REFINACIÓN DEL DISEÑO DE LA BASE DE DATOS
+2.6. REFINACIÓN DE CONSULTAS, DIRECTRICES ADICIONALES PARA LA REFINACIÓN DE UNA CONSULTA
+2.7. REFINACIÓN DE LOS ÍNDICES</p>
+<h3 id="3-técnicas-de-control-de-concurrencia">3 TÉCNICAS DE CONTROL DE CONCURRENCIA</h3>
+<p>3.1. TÉCNICAS DE BLOQUEO EN DOS FASES PARA CONTROLAR LA CONCURRENCIA
+3.2. CONTROL DE LA CONCURRENCIA BASADO EN LA ORDENACIÓN DE MARCAS DE TIEMPO
+3.3. TÉCNICAS MULTIVERSIÓN PARA CONTROLAR LA CONCURRENCIA
+3.4. TÉCNICAS DE CONTROL DE LA CONCURRENCIA OPTIMISTAS
+3.5. GRANULARIDAD DE LOS ELEMENTOS DE DATOS Y BLOQUEO DE LA GRANULARIDAD MÚLTIPLE
+3.6. USO DE BLOQUEOS PARA CONTROLAR LA CONCURRENCIA EN LOS ÍNDICES
+3.7. OTROS PROBLEMAS DEL CONTROL DE LA CONCURRENCIA</p>
+<h3 id="4-base-de-datos-no-relacionales">4 BASE DE DATOS NO RELACIONALES</h3>
+<p>4.1. MOVIMIENTO NOSQL
+4.2. DIFERENCIA ENTRE BASE DE DATOS SQL Y NOSQL
+4.3. CONCEPTOS BÁSICOS, TÉCNICAS Y PATRONES
+4.4. BASE DE DATOS CLAVE-VALOR
+4.5. BASE DE DATOS BASADA EN COLUMNAS
+4.6. BASE DE DATOS DOCUMENTALES</p>
+<h3 id="5-diseño-e-implementación-de-base-de-datos-no-relacionales">5 DISEÑO E IMPLEMENTACIÓN DE BASE DE DATOS NO RELACIONALES</h3>
+<p>5.1  DISEÑO E IMPLEMENTACIÓN DE BASE DE DATOS NO RELACIONALES 5.2. TÉCNICAS Y PATRONES DE DISEÑO PARA ESCALABILIDAD Y ALTA DISPONIBILIDAD
+5.3. CONSISTENCIA
+5.4. PARTICIONAMIENTO
+5.5. ALTA DISPONIBILIDAD
+5.6. ALTA DISPONIBILIDAD
+5.7. GESTORES DE BASE DE DATOS NOSQL</p>
+<h3 id="6-bases-de-datos-distribuidos">6 BASES DE DATOS DISTRIBUIDOS</h3>
+<p>6.1 FUNDAMENTOS DE SISTEMAS DISTRIBUIDOS
+6.2. MODELOS Y ARQUITECTURAS DE SISTEMAS DISTRIBUIDOS
+6.3. MODELOS ORIENTADOS A OBJETOS DISTRIBUIDOS
+6.4. MODELOS DE CLIENTE Y SERVIDOR ORIENTADOS A SERVICIOS WEB DISTRIBUIDOS
+6.5. ALGORITMOS DISTRIBUIDOS
+6.6. APLICACIONES DE SISTEMAS DISTRIBUIDOS</p>
+<h2 id="28-inteligencia-artificial-i">28. INTELIGENCIA ARTIFICIAL I</h2>
+<h3 id="1-fundamentos-de-inteligencia-artificial-y-agentes-inteligentes">1 FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL Y AGENTES INTELIGENTES</h3>
+<p>1.1 Conceptos fundamentales de IA
+1.2 Enfoques de la IA
+1.3 Estado del Arte de la IA
+1.4 Historia de la IA
+1.5 Definición Agentes Inteligentes
+1.6 Caracterización del Entorno
+1.7 Estructura de un Agente
+1.8 Tipos de Agente</p>
+<h3 id="2-agentes-que-planifican-sus-acciones">2 AGENTES QUE PLANIFICAN SUS ACCIONES</h3>
+<p>2.1. Representación de Problemas
+2.2. Grafo de Búsqueda
+2.3. Algoritmos de búsqueda no informada
+2.4. Búsqueda Heurística
+2.5. Algoritmos Path Find</p>
+<h3 id="3-problemas-de-satisfacción-de-restricciones">3 PROBLEMAS DE SATISFACCIÓN DE RESTRICCIONES</h3>
+<p>3.1 Definición de un PSR
+3.2 Algoritmo Backtracking
+3.3 Filtros
+3.4 Análisis de consistencia y ordenamiento
+3.5 Algoritmos Genéticos</p>
+<h3 id="4-agentes-con-adversarios">4 AGENTES CON ADVERSARIOS</h3>
+<p>4.1 Representación de Entornos con Adversarios
+4.2 Algoritmos de Resolución con Adversarios
+4.3 Función de Evaluación.
+4.4 Introducción a la incertidumbre y Utilidad
+4.5 Multi Agentes</p>
+<h3 id="5-incertidumbre">5 INCERTIDUMBRE</h3>
+<p>5.1 Caracterización de Entornos No Deterministas
+5.2 Procesos de Decisión de Markov
+5.3 Arboles de Decisiones
+5.4 Algoritmo de Monte Carlo.
+5.5 Ecuaciones de Bellman</p>
+<h3 id="6-redes-de-bayes">6 REDES DE BAYES</h3>
+<p>6.1 Teorema de Bayes
+6.2 Topología de Red
+6.3 Dependencia e Independencia
+6.4 Separación – D
+6.5 Inferencia Bayesiana</p>
+<h3 id="7-modelos-ocultos-y-filtros">7 MODELOS OCULTOS Y FILTROS</h3>
+<p>7.1 Redes de Decisión
+7.2 Modelos Ocultos de Markov
+7.3 Independencia Condicional
+7.4 Localización y filtros
+7.5 Filtros de Kalman
+7.6 Filtro de Partículas</p>
+<h3 id="8-aprendizaje-por-refuerzo">8 APRENDIZAJE POR REFUERZO</h3>
+<p>8.1 Aprendizaje Basado en modelos.
+8.2 Aprendizaje Pasivo
+8.3 Aprendizaje Temporal
+8.4 Qlearning
+8.5 Función de Exploración.
+8.6 Generalización</p>
+<h2 id="29-taller-de-programación">29. TALLER DE PROGRAMACIÓN</h2>
+<h3 id="1-debugging">1 DEBUGGING</h3>
+<p>1.1 Concepto de Bug
+1.2 Origen de un Bug
+1.3 Malos Olores
+1.4 Técnicas y herramientas de depuración
+1.5 Stack tracing
+1.6 Post-Mortem y técnicas avanzadas de depuración</p>
+<h3 id="2-desarrollo-dirigido-por-pruebas">2 DESARROLLO DIRIGIDO POR PRUEBAS</h3>
+<p>2.1. Introducción a las Pruebas Unitarias
+2.2. Técnicas y herramientas para desarrollar Unit Test
+2.3. Aplicación de TDD
+2.4. Refactorización de código</p>
+<h3 id="3-diseño-oo">3 DISEÑO OO</h3>
+<p>3.1 Introducción a los patrones de diseño
+3.2 Patrones Creacionales
+3.3 Patrones Estructurales
+3.4 Patrones de Comportamiento</p>
+<h3 id="4-persistencia">4 PERSISTENCIA</h3>
+<p>4.1 Flujos y Archivos
+4.2 Persistencia de Objetos
+4.3 Conexión con DB.
+4.4 ORM</p>
+<h3 id="5-hilos">5 HILOS</h3>
+<p>5.1 Definición de Hilos y procesos
+5.2 Instanciación
+5.3 Ciclo de vida de un hilo
+5.4 Programación multi-hilos</p>
+<h3 id="6-programación-con-redes">6 PROGRAMACIÓN CON REDES</h3>
+<p>6.1 TCP-UDP
+6.2 Programación de Sockets
+6.3 Data gramas
+6.4 Encriptación en la comunicación</p>
+<h3 id="7-desarrollo-de-proyecto-del-taller">7 DESARROLLO DE PROYECTO DEL TALLER</h3>
+<p>7.1 ANÁLISIS Y ANTECEDENTES
+7.2 IDENTIFICACIÓN DEL PROBLEMA.
+7.3 RECOPILACIÓN DE LA INFORMACIÓN.
+7.4 DISEÑO PRELIMINAR
+7.5 IMPLEMENTACIÓN
+7.6 PRUEBAS DE CALIDAD
+7.7 PROTOTIPO PRE PRODUCCIÓN
+7.8 PLAN DE IMPLANTACIÓN
+7.9 PROGRAMACIÓN EN LA NUBE</p>
+<h2 id="30-investigación-operativa-ii">30. INVESTIGACIÓN OPERATIVA II</h2>
+<h3 id="1-modelaje-de-grafos">1 MODELAJE DE GRAFOS</h3>
+<p>1.1 Definición de grafo
+1.2 Camino, Grafo fuertemente conexo, descomposición en grafos fuertemente conexos máximos
+1.3 Enumeración, Métodos de composición latina
+1.4 Enumeración de caminos elementales
+1.5 Enumeración de secuencias con repetición
+1.6 Función ordinal de un grafo
+1.7 Ordenación de vértices</p>
+<h3 id="2-métodos-de-optimización--programación-dinámica">2 MÉTODOS DE OPTIMIZACIÓN – PROGRAMACIÓN DINÁMICA</h3>
+<p>2.1. Fundamentos de optimización
+2.2. Función numérica de un grafo
+2.3. Optimización de un camino en un grafo sin circuito
+2.4. Teoremas de Optimización
+2.5. Programación dinámica, aplicada a grafos sin circuitos
+2.6. Programación dinámica aplicada a otros grafos
+2.7. Grafo secuencial
+2.8. Método de exploración dirigida
+2.9. Algoritmos de Optimización y Programación Dinámica</p>
+<h3 id="3-programación-dinámica-estocástica">3 PROGRAMACIÓN DINÁMICA ESTOCÁSTICA</h3>
+<p>3.1 Conceptos básicos
+3.2 Modelos de decisión
+3.3 Transformación Zeta
+3.4 Cadenas 3.4.1 Markow con valores de transición 3.4.2 Ergódica 3.4.3 Completamente ergódicas 3.4.4 Periódica
+3.5. Comportamiento asintótico
+3.6 Cadenas Múltiples de Markov
+3.7 Algoritmo de Howard
+3.8 Actualización de la ganancia
+3.9 Aplicación de las cadenas a la teoría de juegos</p>
+<h3 id="4-programación-no-lineal-univariante">4 PROGRAMACIÓN NO LINEAL UNIVARIANTE</h3>
+<p>4.1 Conceptos básicos
+4.2 Óptimos locales y globales, y consecuencia debido al cálculo
+4.3 Técnicas de búsqueda secuencial
+4.4 Técnicas de búsqueda en tres puntos del intervalo
+4.5 Búsqueda Fibonacci
+4.6 Búsqueda de la sección áurea
+4.7 Funciones convexa</p>
+<h3 id="5-programación-no-lineal-multivariante-sin-restricciones">5 PROGRAMACIÓN NO LINEAL MULTIVARIANTE SIN RESTRICCIONES</h3>
+<p>5.1 Conceptos básicos
+5.2 Máximos y mínimos locales
+5.3 Vector gradiente y matriz hessiana y consecuencias debidas al cálculo
+5.4 Método de asenso acelerado
+5.5 Método de Newton Raphson</p>
+<h3 id="6-programación-no-lineal-multivariante">6 PROGRAMACIÓN NO LINEAL MULTIVARIANTE</h3>
+<p>6.1 Conceptos básicos
+6.2 Formas estándar
+6.3 Multiplicadores de Lagrange
+6.4 Método de Newton Raphon
+6.5 Funciones de Penalización
+6.6 Condiciones de Kuhn Tuker</p>
+</div><div class="post-footer" id="post-footer">
+  <div class="post-info"><div class="post-info-tag"><span><a href="/tags/is/">IS</a>
+      </span></div><div class="post-info-line"><div class="post-info-mod">
+	<span>Actualizado el 0001-01-01</span>
+      </div><div class="post-info-mod"></div>
+    </div></div><div class="post-nav"><a href="/posts/emi-semestres/6to-semestre/" class="prev" rel="prev" title=""><i class="fa-solid fa-angle-left fa-fw"></i>Previous Post</a>
+    <a href="/posts/emi-semestres/4to-semestre/" class="next" rel="next" title="">Next Post<i class="fa-solid fa-angle-right fa-fw"></i></a></div></div>
+</div></article></div>
+            </main>
+            <footer class="footer"><div class="footer-container"><div class="footer-line">Provisto por <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.122.0">Hugo</a> | Tema - <a href="https://github.com/khusika/FeelIt" target="_blank" rel="noopener noreffer" title="FeelIt 1.0.2"><i class="fa-solid fa-hand-holding-heart fa-fw"></i> FeelIt</a>
+        </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw"></i><span itemprop="copyrightYear">2024</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/"></a></span></div>
+</div>
+</footer>
+        </div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Volver arriba">
+                <i class="fa-solid fa-chevron-up fa-fw"></i>
+            </a></div><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/clipboard/clipboard.min.js"></script><script>window.config={"code":{"copyTitle":"Copiar al portapapeles","maxShownLines":10},"comment":{}};</script><script src="/js/theme.min.js"></script></body></html>

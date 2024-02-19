@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title> - Efrain Colque </title><meta name="description" content=""><meta property="og:title" content="" />
+<meta property="og:description" content="43. REINGENIERÍA DE SISTEMAS 1 FUNDAMENTOS DE LA REINGENIERÍA 1.1. Innovación contra mejora de procesos 1.2. Definición de Reingeniería 1.3. Objetivos de la Reingeniería 1.4. La TI y la reingeniería de procesos 1.5. Principios de Reingeniería
+2 METODOLOGÍA DE LA REINGENIERÍA 2.1. EL MÉTODO ANÁLISIS DE OPCIONES PARA REINGENIERÍA 2.2. EL MODELO CÍCLICO 2.3. Análisis de inventario. 2.4. Reestructuración de documentos. 2.5. Ingeniería inversa. 2.6. Reestructuración del código. 2.7. Reestructuración de datos 2." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://joe4334e.github.io/posts/8vo-semestre/" /><meta property="article:section" content="posts" />
+
+
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="43. REINGENIERÍA DE SISTEMAS 1 FUNDAMENTOS DE LA REINGENIERÍA 1.1. Innovación contra mejora de procesos 1.2. Definición de Reingeniería 1.3. Objetivos de la Reingeniería 1.4. La TI y la reingeniería de procesos 1.5. Principios de Reingeniería
+2 METODOLOGÍA DE LA REINGENIERÍA 2.1. EL MÉTODO ANÁLISIS DE OPCIONES PARA REINGENIERÍA 2.2. EL MODELO CÍCLICO 2.3. Análisis de inventario. 2.4. Reestructuración de documentos. 2.5. Ingeniería inversa. 2.6. Reestructuración del código. 2.7. Reestructuración de datos 2."/>
+<meta name="application-name" content="Efrain Colque ">
+<meta name="apple-mobile-web-app-title" content="Efrain Colque "><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://joe4334e.github.io/posts/8vo-semestre/" /><link rel="prev" href="http://joe4334e.github.io/posts/9no-semestre/" /><link rel="next" href="http://joe4334e.github.io/posts/7mo-semestre/" /><link rel="stylesheet" href="/css/page.min.css"><link rel="stylesheet" href="/css/home.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "",
+        "inLanguage": "es",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/joe4334e.github.io\/posts\/8vo-semestre\/"
+        },"genre": "posts","keywords": "IS","wordcount":  1372 ,
+        "url": "http:\/\/joe4334e.github.io\/posts\/8vo-semestre\/","publisher": {
+            "@type": "Organization",
+            "name": "Autor"},"author": {
+                "@type": "Person",
+                "name": "Autor"
+            },"description": ""
+    }
+    </script></head><body data-header-desktop="" data-header-mobile=""><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Efrain Colque ">Efrain Colque </a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Publicaciones </a><a class="menu-item" href="/tags/"> etiquetas  </a><a class="menu-item" href="/categories/"> Categorias </a><a class="menu-item" href="/about/"> Sobre Mi </a><span class="menu-item delimiter"></span><a href="#" onclick="return false;" class="menu-item theme-switch" title="Cambia el tema">
+                    <i class="fa-solid fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Efrain Colque ">Efrain Colque </a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="">Publicaciones</a><a class="menu-item" href="/tags/" title="">etiquetas </a><a class="menu-item" href="/categories/" title="">Categorias</a><a class="menu-item" href="/about/" title="">Sobre Mi</a><div class="menu-item"><a href="#" onclick="return false;" class="theme-switch" title="Cambia el tema">
+                    <i class="fa-solid fa-adjust fa-fw"></i>
+                </a>
+            </div></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contenido</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single" data-toc="disable"><div class="single-card" ><h2 class="single-title animated flipInX"></h2><div class="post-meta">
+                <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa-solid fa-user-circle fa-fw"></i>Autor</a></span></div>
+                <div class="post-meta-line"><span><i class="fa-regular fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="0001-01-01">0001-01-01</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw"></i>&nbsp;1372 palabras</span>&nbsp;
+                    <span><i class="fa-regular fa-clock fa-fw"></i>&nbsp;7 minutos</span>&nbsp;</div>
+            </div>
+            
+            <hr><div class="details toc" id="toc-static"  data-kept="">
+                    <div class="details-summary toc-title">
+                        <span>Contenido</span>
+                        <span><i class="details-icon fa-solid fa-angle-right"></i></span>
+                    </div>
+                    <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#43-reingeniería-de-sistemas">43. REINGENIERÍA DE SISTEMAS</a>
+      <ul>
+        <li><a href="#1-fundamentos-de-la-reingeniería">1 FUNDAMENTOS DE LA REINGENIERÍA</a></li>
+        <li><a href="#2-metodología-de-la-reingeniería">2 METODOLOGÍA DE LA REINGENIERÍA</a></li>
+        <li><a href="#3-reingeniería-de-procesos">3 REINGENIERÍA DE PROCESOS</a></li>
+        <li><a href="#4-reingeniería-de-software">4 REINGENIERÍA DE SOFTWARE</a></li>
+        <li><a href="#5-reingeniería-de-organizaciones">5 REINGENIERÍA DE ORGANIZACIONES</a></li>
+        <li><a href="#6-la-ingeniera-inversa">6 LA INGENIERA INVERSA</a></li>
+      </ul>
+    </li>
+    <li><a href="#44-ingeniería-de-software-ii">44. INGENIERÍA DE SOFTWARE II</a>
+      <ul>
+        <li><a href="#1-tecnologías-de-componentes">1 TECNOLOGÍAS DE COMPONENTES</a></li>
+        <li><a href="#2-fundamentos-de-las-tecnologías-web">2 FUNDAMENTOS DE LAS TECNOLOGÍAS WEB</a></li>
+        <li><a href="#3-desarrollo-de-aplicaciones-web">3 DESARROLLO DE APLICACIONES WEB</a></li>
+        <li><a href="#4-programación-del-lado-del-servidor">4 PROGRAMACIÓN DEL LADO DEL SERVIDOR</a></li>
+        <li><a href="#5-programación-del-lado-del-cliente">5 PROGRAMACIÓN DEL LADO DEL CLIENTE</a></li>
+        <li><a href="#6-servicios-web">6 SERVICIOS WEB</a></li>
+        <li><a href="#7-programación-de-dispositivos-móviles">7 PROGRAMACIÓN DE DISPOSITIVOS MÓVILES</a></li>
+      </ul>
+    </li>
+    <li><a href="#45-informática-forense">45. INFORMÁTICA FORENSE</a>
+      <ul>
+        <li><a href="#1-generalidades-de-la-informática-forense">1 GENERALIDADES DE LA INFORMÁTICA FORENSE</a></li>
+        <li><a href="#2-diseño-de-procedimiento-de-informática-forense">2 DISEÑO DE PROCEDIMIENTO DE INFORMÁTICA FORENSE</a></li>
+        <li><a href="#3-utilización-e-implementación-de-técnicas-para-las-evidencias">3 UTILIZACIÓN E IMPLEMENTACIÓN DE TÉCNICAS PARA LAS EVIDENCIAS</a></li>
+        <li><a href="#4-generación-de-informes-de-las-evidencias">4 GENERACIÓN DE INFORMES DE LAS EVIDENCIAS</a></li>
+        <li><a href="#5-herramientas-análisis-forense">5 HERRAMIENTAS ANÁLISIS FORENSE</a></li>
+      </ul>
+    </li>
+    <li><a href="#46-preparación-y-evaluación-de-proyectos">46. PREPARACIÓN Y EVALUACIÓN DE PROYECTOS</a>
+      <ul>
+        <li><a href="#1-fundamentos-de-proyectos">1 FUNDAMENTOS DE PROYECTOS</a></li>
+        <li><a href="#2-estudio-de-mercado">2 ESTUDIO DE MERCADO</a></li>
+        <li><a href="#3-estudio-técnico">3 ESTUDIO TÉCNICO</a></li>
+        <li><a href="#4-estudios-complementarios">4 ESTUDIOS COMPLEMENTARIOS</a></li>
+        <li><a href="#5-estimación-de-inversiones-costos-y-flujo-de-caja-del-proyecto">5 ESTIMACIÓN DE INVERSIONES, COSTOS Y FLUJO DE CAJA DEL PROYECTO</a></li>
+        <li><a href="#6-evaluación-de-proyectos">6 EVALUACIÓN DE PROYECTOS</a></li>
+      </ul>
+    </li>
+    <li><a href="#47-práctica-empresarial">47. PRÁCTICA EMPRESARIAL</a>
+      <ul>
+        <li><a href="#1-inducción">1 INDUCCIÓN</a></li>
+        <li><a href="#2-ejecución">2 EJECUCIÓN</a></li>
+        <li><a href="#3-asesoría-y-seguimiento">3 ASESORÍA Y SEGUIMIENTO</a></li>
+        <li><a href="#4-elaboración-de-informes">4 ELABORACIÓN DE INFORMES</a></li>
+        <li><a href="#5-presentación-y-sustentación-del-trabajo-realizado">5 PRESENTACIÓN Y SUSTENTACIÓN DEL TRABAJO REALIZADO</a></li>
+      </ul>
+    </li>
+    <li><a href="#48-robótica">48. ROBÓTICA</a>
+      <ul>
+        <li><a href="#1-fundamentos-de-la-robótica">1 FUNDAMENTOS DE LA ROBÓTICA</a></li>
+        <li><a href="#2-mecanismos-y-modelado-de-robots">2 MECANISMOS Y MODELADO DE ROBOTS</a></li>
+        <li><a href="#3-sistemas-de-percepción">3 SISTEMAS DE PERCEPCIÓN</a></li>
+        <li><a href="#4-programación-de-robots">4 PROGRAMACIÓN DE ROBOTS</a></li>
+        <li><a href="#5-automatización-y-control-de-robots">5 AUTOMATIZACIÓN Y CONTROL DE ROBOTS</a></li>
+        <li><a href="#6-manipuladores-robots-moviles">6 MANIPULADORES, ROBOTS MOVILES,</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+                </div><div class="content" id="content"><h2 id="43-reingeniería-de-sistemas">43. REINGENIERÍA DE SISTEMAS</h2>
+<h3 id="1-fundamentos-de-la-reingeniería">1 FUNDAMENTOS DE LA REINGENIERÍA</h3>
+<p>1.1. Innovación contra mejora de procesos
+1.2. Definición de Reingeniería
+1.3. Objetivos de la Reingeniería
+1.4. La TI y la reingeniería de procesos
+1.5. Principios de Reingeniería</p>
+<h3 id="2-metodología-de-la-reingeniería">2 METODOLOGÍA DE LA REINGENIERÍA</h3>
+<p>2.1. EL MÉTODO ANÁLISIS DE OPCIONES PARA REINGENIERÍA
+2.2. EL MODELO CÍCLICO
+2.3. Análisis de inventario.
+2.4. Reestructuración de documentos.
+2.5. Ingeniería inversa.
+2.6. Reestructuración del código.
+2.7. Reestructuración de datos
+2.8. Ingeniería directa (forward engineering).
+2.9. REINGENIERÍA SEGÚN IAN SOMMERVILLE</p>
+<h3 id="3-reingeniería-de-procesos">3 REINGENIERÍA DE PROCESOS</h3>
+<p>3.1. Fundamentos de Reingeniería de Procesos.
+3.2. Principios de la Reingeniería.
+3.3. Características de la BPR.
+3.4. Instrumentos y técnicas
+3.5. Lo que no es Reingeniería</p>
+<h3 id="4-reingeniería-de-software">4 REINGENIERÍA DE SOFTWARE</h3>
+<p>4.1. Proceso de reingeniería de software
+4.2. Fases en la Reingeniería del Software
+4.3. La traducción del código fuente
+4.4. Ingeniería inversa
+4.5. Mejora de la estructura del programa
+4.6. Modularización del programa
+4.7. Reingeniería de datos</p>
+<h3 id="5-reingeniería-de-organizaciones">5 REINGENIERÍA DE ORGANIZACIONES</h3>
+<p>5.1. Fase de Concepción
+5.2. Fase de Análisis
+5.3. Fase de Diseño
+5.4. Fase de Construcción
+5.5. Fase de Manutención</p>
+<h3 id="6-la-ingeniera-inversa">6 LA INGENIERA INVERSA</h3>
+<p>6.1. Ingeniería inversa como un proceso de reingeniería
+6.2. Beneficios de la ingeniería inversa
+6.3. Elementos 6.4. Fases
+6.5. Inconvenientes de la ingeniería inversa
+6.6. Herramientas CASE para ingeniera inversa</p>
+<h2 id="44-ingeniería-de-software-ii">44. INGENIERÍA DE SOFTWARE II</h2>
+<h3 id="1-tecnologías-de-componentes">1 TECNOLOGÍAS DE COMPONENTES</h3>
+<p>1.1. Programación orientada a componentes
+1.2. Características de un componente
+1.3. Aspectos avanzados de las propiedades
+1.4. Generación de eventos
+1.5. Componentes visuales
+1.6. Descripción detallada de beans
+1.5. Programación orientada a componentes
+1.6. Características de un componente</p>
+<h3 id="2-fundamentos-de-las-tecnologías-web">2 FUNDAMENTOS DE LAS TECNOLOGÍAS WEB</h3>
+<p>2.1. Conceptos básicos
+2.2. Internet, intranet y extranet
+2.3. Páginas y servidores Web
+2.4. Aplicaciones Web
+2.5. Web semántica</p>
+<h3 id="3-desarrollo-de-aplicaciones-web">3 DESARROLLO DE APLICACIONES WEB</h3>
+<p>3.1. Fundamentos de los estándares Web
+3.2. Cgibins, scripts y servlets
+3.3. Sesiones
+3.4. JSP
+3.5. Programación Web avanzada</p>
+<h3 id="4-programación-del-lado-del-servidor">4 PROGRAMACIÓN DEL LADO DEL SERVIDOR</h3>
+<p>4.1. Programación básica del servidor
+4.2. PHP</p>
+<h3 id="5-programación-del-lado-del-cliente">5 PROGRAMACIÓN DEL LADO DEL CLIENTE</h3>
+<p>5.1. HTML
+5.2. XML
+5.3. JavaScript
+5.4. Desarrollo de guiones y paginas interactivas</p>
+<h3 id="6-servicios-web">6 SERVICIOS WEB</h3>
+<p>6.1. Conceptualización de servicios Web
+6.2. Estándares que definen un servicio Web
+6.3. Inconvenientes de los servicios Web
+6.4. Razones para crear servicios Web Plataformas
+6.5. Conceptualización de servicios Web</p>
+<h3 id="7-programación-de-dispositivos-móviles">7 PROGRAMACIÓN DE DISPOSITIVOS MÓVILES</h3>
+<p>7.1. Fundamentos
+7.2. Limitaciones de los dispositivos móviles
+7.3. Sistemas operativos móviles
+7.4. Desarrollo de aplicaciones móviles
+7.5. Java 2 Mobile Edition
+7.6. Configuración CDC y CLDC
+7.7. Paquetes opcionales en J2ME
+7.8. MIDP: MIDlets, Interfaces Graficas de Usuario
+7.9. MIDP: Persistencia, ficheros y Conexión por red.</p>
+<h2 id="45-informática-forense">45. INFORMÁTICA FORENSE</h2>
+<h3 id="1-generalidades-de-la-informática-forense">1 GENERALIDADES DE LA INFORMÁTICA FORENSE</h3>
+<p>1.1. Fundamentos de informática forense
+1.2. Definición de evidencias; informática forense; las fases del intruso, roles
+1.3. Clasificación de investigadores; el intruso y sus técnicas
+1.4. Tipos de hackers, La mente del intruso e Identificación de rastro de los ataques.
+1.5. Evaluación de la Primera Unidad de Formación.</p>
+<h3 id="2-diseño-de-procedimiento-de-informática-forense">2 DISEÑO DE PROCEDIMIENTO DE INFORMÁTICA FORENSE</h3>
+<p>2.1. Planeamiento y preparación para la respuesta ante un incidente y Reglas básicas y procedimientos para el manejo de la evidencia digital.
+2.2. Roles y responsabilidades del administrador de sistemas y consideraciones de diseño de infraestructura de seguridad.
+2.3. Técnicas básicas para el diseño y la generación del rastro.
+2.4. Auditabilidad y trazabilidad; consideraciones jurídicas y aspectos de los rastros con las plataformas tecnológicas,
+2.5. Evaluación de la Segunda Unidad de Formación.</p>
+<h3 id="3-utilización-e-implementación-de-técnicas-para-las-evidencias">3 UTILIZACIÓN E IMPLEMENTACIÓN DE TÉCNICAS PARA LAS EVIDENCIAS</h3>
+<p>3.1. Técnicas para el reconocimiento y entendimiento de los datos.
+3.2. Organización de las marcas de datos para la generación de reportes.
+3.3. Realización de análisis de firma de archivos,.
+3.4. Creación de conjuntos hash
+3.5. Montando archivos externos a ENCASE
+3.6. Evaluación de la Tercera Unidad de Formación.</p>
+<h3 id="4-generación-de-informes-de-las-evidencias">4 GENERACIÓN DE INFORMES DE LAS EVIDENCIAS</h3>
+<p>4.1. La formación de especialistas en informática forense. 4.2. Técnicas anti-forenses.
+4.3. Destrucción de las evidencias.
+4.4. Cibercrimen y ciberterrorismo: amenazas estratégicas y tácticas de las organizaciones modernas.
+4.5. Evaluación de la Cuarta Unidad de Formación</p>
+<h3 id="5-herramientas-análisis-forense">5 HERRAMIENTAS ANÁLISIS FORENSE</h3>
+<p>5.1. Herramientas análisis forense y su aplicabilidad en la investigación de delitos informáticos
+5.2. Adquisición y Análisis Forense Digital de la Memoria RAM..
+5.3. Programas para análisis forense en montaje de discos..
+5.4. Cuestionarios
+5.5. Carving y herramientas de disco
+5.6. Utilidades para el sistema de ficheros
+5.7. Análisis de Malware
+5.8. Herramientas de análisis forense informático en la red
+5.9. Programas y herramientas para Dispositivos Móviles (iPhone, Black Berry y Android)</p>
+<h2 id="46-preparación-y-evaluación-de-proyectos">46. PREPARACIÓN Y EVALUACIÓN DE PROYECTOS</h2>
+<h3 id="1-fundamentos-de-proyectos">1 FUNDAMENTOS DE PROYECTOS</h3>
+<p>1.1 Tipologías del proyectos
+1.2 Momentos de un proyecto
+1.3 Proceso de estudio del proyecto
+1.4 Los estudios funcionales o de apoyo (Estructura del Proyecto)
+1.5 El horizonte de planificación del proyecto
+1.6 Clasificación de Costos</p>
+<h3 id="2-estudio-de-mercado">2 ESTUDIO DE MERCADO</h3>
+<p>2.1 El producto
+2.2 Comportamiento económico del mercado  La demanda  La oferta  Los precios
+2.3 Información económica del mercado  Mercado Consumidor  Mercado Competidor  Mercado Proveedor  Mercado Distribuidor
+2.4 La función demanda para el Proyecto.</p>
+<h3 id="3-estudio-técnico">3 ESTUDIO TÉCNICO</h3>
+<p>3.1 Tamaño
+3.2 Localización
+3.3 Tecnología (Proceso)
+3.4 Balance de factores y recursos
+3.5 Capacidades</p>
+<h3 id="4-estudios-complementarios">4 ESTUDIOS COMPLEMENTARIOS</h3>
+<p>4.1. Estudio Legal
+4.2. Estudio Organizacional Administrativo
+4.3. Estudio de Impacto Ambiental</p>
+<h3 id="5-estimación-de-inversiones-costos-y-flujo-de-caja-del-proyecto">5 ESTIMACIÓN DE INVERSIONES, COSTOS Y FLUJO DE CAJA DEL PROYECTO</h3>
+<p>5.1 Técnicas de estimación de costos
+5.2 Aspectos tributarios
+5.3 Costo de inversión y valor de salvamento
+5.4 Costo de transformación, operación y financiero
+5.5 Capital de Operaciones
+5.6 Flujo libre de efectivo</p>
+<h3 id="6-evaluación-de-proyectos">6 EVALUACIÓN DE PROYECTOS</h3>
+<p>6.1 El punto de equilibrio
+6.2 La tasa mínima atractiva de retorno.
+6.3 El valor actual neto.
+6.4 Tasa interna de retorno.
+6.5 La razón beneficio costo.
+6.6 El periodo de recuperación de la inversión
+6.7 El riesgo de los proyectos.
+6.8 Análisis de Tornado
+6.9 Simulación de Monte Carlo.
+6.7 Otros criterios de decisión</p>
+<h2 id="47-práctica-empresarial">47. PRÁCTICA EMPRESARIAL</h2>
+<h3 id="1-inducción">1 INDUCCIÓN</h3>
+<p>1.1. Procesos de la pasantía 1.2. Políticas y reglamentos de pasantía
+1.3. Plazos y entrega de informes
+1.4. Defensa de los trabajos y fechas de entrega
+1.5. Metodología de investigación científica
+1.6. Metodología de innovación tecnológica
+1.7. Como certificar el proceso</p>
+<h3 id="2-ejecución">2 EJECUCIÓN</h3>
+<p>2.1. Ubicación de la empresa
+2.2. Inscribir la práctica al programa
+2.3. Práctica empresarial
+2.4. Criterios de evaluación</p>
+<h3 id="3-asesoría-y-seguimiento">3 ASESORÍA Y SEGUIMIENTO</h3>
+<p>3.1. Reseña de la empresa.
+3.2. Justificación de la práctica.
+3.3. Identificación de la problemática.
+3.4. Marco de referencia
+3.5. Definición de objetivos
+3.6. Plan de trabajo.</p>
+<h3 id="4-elaboración-de-informes">4 ELABORACIÓN DE INFORMES</h3>
+<p>4.1. Elaboración de primer informe
+4.2. Primer borrador has planificación
+4.3. Elaboración del segundo informe
+4.4. Resultados obtenidos
+4.5. Discusiones
+4.6. Recomendaciones
+4.7. Bibliografía</p>
+<h3 id="5-presentación-y-sustentación-del-trabajo-realizado">5 PRESENTACIÓN Y SUSTENTACIÓN DEL TRABAJO REALIZADO</h3>
+<p>5.1. Nivel de calidad en el trabajo
+5.2. Nivel de conocimientos aplicados
+5.3. Responsabilidad demostrada
+5.4. Compromiso
+5.5. Pro actividad y relaciones interpersonales
+5.6. Cumplimiento de reglas y políticas
+5.7. Capacidad de trabajo en equipo
+5.8. Capacidad de trabajo bajo presión.</p>
+<h2 id="48-robótica">48. ROBÓTICA</h2>
+<h3 id="1-fundamentos-de-la-robótica">1 FUNDAMENTOS DE LA ROBÓTICA</h3>
+<p>1.1. Antecedentes
+1.2. Robots, Robótica, Robótica móvil
+1.3. Componentes básicos
+1.4. Tipos de robots y clasificación
+1.5. Tipos de arquitecturas</p>
+<h3 id="2-mecanismos-y-modelado-de-robots">2 MECANISMOS Y MODELADO DE ROBOTS</h3>
+<p>2.1. Mecanismos
+2.2. Articulaciones
+2.3. Transmisiones
+2.4. Cinemática
+2.5. Dinámica
+2.6. Técnicas de simulación dinámica</p>
+<h3 id="3-sistemas-de-percepción">3 SISTEMAS DE PERCEPCIÓN</h3>
+<p>3.1. Fundamentos de percepción
+3.2. Percepción táctil
+3.3. Otras fuentes sensoriales
+3.4. Sensores ópticos
+3.5. Sensores de posición
+3.6. Sensores de localización y orientación
+3.7. Sensores de fuerza, par y presión
+3.8. Sistemas de adquisición de datos</p>
+<h3 id="4-programación-de-robots">4 PROGRAMACIÓN DE ROBOTS</h3>
+<p>4.1. Métodos de programación y clasificación
+4.2. Programación por guiado
+4.3. Frameworks de robótica (Johnny-five, Cylon js)
+4.4. Nodebots, robótica controlada utilizando java script 4.5. Plataformas y sistemas de programación de robots
+4.6. Conectividad y comunicación con interfaces robóticos 4.7. Internet de las cosas y robótica</p>
+<h3 id="5-automatización-y-control-de-robots">5 AUTOMATIZACIÓN Y CONTROL DE ROBOTS</h3>
+<p>5.1. Niveles de automatización
+5.2. Interacción hombre-maquina
+5.3. Servomecanismos
+5.4. Control cinemático
+5.5. Control basado en el modelo dinámico
+5.6. Control de fuerza
+5.7. Plataformas y componentes (Arduino, Raspberry pi, Asus Tinker Board, Orange pi, Beagle Board, Intel Galileo)</p>
+<h3 id="6-manipuladores-robots-moviles">6 MANIPULADORES, ROBOTS MOVILES,</h3>
+<p>6.1. Tipos y clasificación de manipuladores
+6.2. Manipuladores sensorizados
+6.3. Técnicas de manipulación robótica
+6.4. Sistemas de locomoción
+6.5. Planificación de trayectorias y seguimiento de caminos 6.6. Sistemas cognitivos
+6.7. Sistemas e iteración hombre-robot
+6.8. Desarrollo proyecto de sistemas robóticos
+6.9. Robótica de servicios y robótica humanitaria.</p>
+</div><div class="post-footer" id="post-footer">
+  <div class="post-info"><div class="post-info-tag"><span><a href="/tags/is/">IS</a>
+      </span></div><div class="post-info-line"><div class="post-info-mod">
+	<span>Actualizado el 0001-01-01</span>
+      </div><div class="post-info-mod"></div>
+    </div></div><div class="post-nav"><a href="/posts/9no-semestre/" class="prev" rel="prev" title=""><i class="fa-solid fa-angle-left fa-fw"></i>Previous Post</a>
+    <a href="/posts/7mo-semestre/" class="next" rel="next" title="">Next Post<i class="fa-solid fa-angle-right fa-fw"></i></a></div></div>
+</div></article></div>
+            </main>
+            <footer class="footer"><div class="footer-container"><div class="footer-line">Provisto por <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.122.0">Hugo</a> | Tema - <a href="https://github.com/khusika/FeelIt" target="_blank" rel="noopener noreffer" title="FeelIt 1.0.2"><i class="fa-solid fa-hand-holding-heart fa-fw"></i> FeelIt</a>
+        </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw"></i><span itemprop="copyrightYear">2024</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/"></a></span></div>
+</div>
+</footer>
+        </div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Volver arriba">
+                <i class="fa-solid fa-chevron-up fa-fw"></i>
+            </a></div><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/clipboard/clipboard.min.js"></script><script>window.config={"code":{"copyTitle":"Copiar al portapapeles","maxShownLines":10},"comment":{}};</script><script src="/js/theme.min.js"></script></body></html>
