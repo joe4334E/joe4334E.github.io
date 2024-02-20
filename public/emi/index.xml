@@ -6,20 +6,76 @@
     <description>Recent content in EMIs on Efrain Colque </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Apr 2023 15:58:26 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 15:58:26 +0800</lastBuildDate>
     <atom:link href="http://joe4334e.github.io/emi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Basic</title>
-      <link>http://joe4334e.github.io/emi/basic/</link>
-      <pubDate>Sat, 04 Mar 2023 15:58:26 +0800</pubDate>
-      <guid>http://joe4334e.github.io/emi/basic/</guid>
-      <description></description>
-    </item>
     <item>
       <title>1.1_Proposiciones_y_Valores_de_Verdad</title>
       <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.1_proposiciones_y_valores_de_verdad/</link>
-      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <pubDate>Tue, 04 Apr 2023 15:58:26 +0800</pubDate>
       <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.1_proposiciones_y_valores_de_verdad/</guid>
+      <description>PROPOSICIONES Y VALORES DE VERDAD TABLA DE VERDAD EJERCICIOS SOBRE ESA MATERIA </description>
+    </item>
+    <item>
+      <title>1.1_Elementos_de_calculo_diferencial_e_integral</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.1_elementos_de_calculo_diferencial_e_integral/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.1_elementos_de_calculo_diferencial_e_integral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.1_Introduccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.1_introduccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.1_introduccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.10_Estequiometria</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.10_estequiometria/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.10_estequiometria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.11_Metodos_de_igualacion_de_ecuaciones_quimicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.11_metodos_de_igualacion_de_ecuaciones_quimicas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.11_metodos_de_igualacion_de_ecuaciones_quimicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.12_Reactivo_limitante_y_reactivo_en_exceso</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.12_reactivo_limitante_y_reactivo_en_exceso/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.12_reactivo_limitante_y_reactivo_en_exceso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.13_Pureza</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.13_pureza/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.13_pureza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.14_Rendimiento_de_la_reaccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.14_rendimiento_de_la_reaccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.14_rendimiento_de_la_reaccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.2_Balance_de_material_sin_reaccion_quimica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.2_balance_de_material_sin_reaccion_quimica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.2_balance_de_material_sin_reaccion_quimica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.2_Desplazamiento_velocidad_y_aceleracion_en_coordenadas_generalizadas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.2_desplazamiento_velocidad_y_aceleracion_en_coordenadas_generalizadas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.2_desplazamiento_velocidad_y_aceleracion_en_coordenadas_generalizadas/</guid>
       <description></description>
     </item>
     <item>
@@ -30,10 +86,38 @@
       <description></description>
     </item>
     <item>
+      <title>1.3_Ecuaciones_parametricas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.3_ecuaciones_parametricas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.3_ecuaciones_parametricas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.3_Leyes_ponderales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.3_leyes_ponderales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.3_leyes_ponderales/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>1.3_Tablas_de_Verdad</title>
       <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.3_tablas_de_verdad/</link>
       <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
       <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.3_tablas_de_verdad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.4_Composicion_centesimal</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.4_composicion_centesimal/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.4_composicion_centesimal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.4_Movimiento_parabolico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.4_movimiento_parabolico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.4_movimiento_parabolico/</guid>
       <description></description>
     </item>
     <item>
@@ -51,10 +135,45 @@
       <description></description>
     </item>
     <item>
+      <title>1.5_Movimiento_de_rotacion_y_sus_variables</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.5_movimiento_de_rotacion_y_sus_variables/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.5_movimiento_de_rotacion_y_sus_variables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.5_Pesos_atomicos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.5_pesos_atomicos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.5_pesos_atomicos/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>1.6_Argumentacion_y_Reglas_de_Inferencia</title>
       <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.6_argumentacion_y_reglas_de_inferencia/</link>
       <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
       <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.6_argumentacion_y_reglas_de_inferencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.6_Determinacion_de_formulas_empiricas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.6_determinacion_de_formulas_empiricas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.6_determinacion_de_formulas_empiricas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.6_Transmision_de_movimiento</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.6_transmision_de_movimiento/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.6_transmision_de_movimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.7_Balance_de_material_con_reaccion_quimica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.7_balance_de_material_con_reaccion_quimica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.7_balance_de_material_con_reaccion_quimica/</guid>
       <description></description>
     </item>
     <item>
@@ -65,6 +184,13 @@
       <description></description>
     </item>
     <item>
+      <title>1.7_Relacion_entre_la_cinematica_lineal_y_rotacional</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.7_relacion_entre_la_cinematica_lineal_y_rotacional/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.7_relacion_entre_la_cinematica_lineal_y_rotacional/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>1.8_Metodos_de_Demostracion</title>
       <link>http://joe4334e.github.io/emi/semestre1/01-algebra/1_logica/1.8_metodos_de_demostracion/</link>
       <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
@@ -72,18 +198,1096 @@
       <description></description>
     </item>
     <item>
-      <title>Indice de</title>
-      <link>http://joe4334e.github.io/emi/semestre001/01-algebra/1-logica/</link>
+      <title>1.8_Movimiento_Relativo_1.9_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.8_movimiento_relativo_1.9_problemas_de_aplicacion/</link>
       <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
-      <guid>http://joe4334e.github.io/emi/semestre001/01-algebra/1-logica/</guid>
-      <description>Indice de la materia Logica #!/bin/bash # Definir la ruta base base_path=&amp;#34;emi/Semestre_1/01. ALGEBRA/1 LÓGICA&amp;#34; # Definir los nombres de los archivos files=(&amp;#34;1.1 Proposiciones y Valores de verdad.md&amp;#34; &amp;#34;1.2 Proposiciones simples y compuestas.md&amp;#34; &amp;#34;1.3 Tablas de verdad.md&amp;#34; &amp;#34;1.4 Proposiciones lógicamente equivalentes.md&amp;#34; &amp;#34;1.5 Algebra de proposiciones.md&amp;#34; &amp;#34;1.6 Argumentación y Reglas de inferencia.md&amp;#34; &amp;#34;1.7 Cuantificadores.md&amp;#34; &amp;#34;1.8 Métodos de demostración.md&amp;#34;) # Crear los archivos con hugo new for file in &amp;#34;${files[@]}&amp;#34;; do hugo new &amp;#34;$base_path/$file&amp;#34; done </description>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/1_cinematica_de_la_particula/1.8_movimiento_relativo_1.9_problemas_de_aplicacion/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Tarea</title>
-      <link>http://joe4334e.github.io/emi/001.tarea/tarea/</link>
+      <title>1.8_Reacciones_quimicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.8_reacciones_quimicas/</link>
       <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
-      <guid>http://joe4334e.github.io/emi/001.tarea/tarea/</guid>
-      <description>Primer post en otro directorio </description>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.8_reacciones_quimicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1.9_Tipos_de_reacciones_quimicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.9_tipos_de_reacciones_quimicas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/1_balance_de_materia/1.9_tipos_de_reacciones_quimicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.1_Caracteristicas_y_propiedades_de_las_soluciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.1_caracteristicas_y_propiedades_de_las_soluciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.1_caracteristicas_y_propiedades_de_las_soluciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.1_Conceptos_fundamentales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.1_conceptos_fundamentales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.1_conceptos_fundamentales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.1_Descripcion_de_conjuntos_y_relacion_de_pertenencia</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.1_descripcion_de_conjuntos_y_relacion_de_pertenencia/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.1_descripcion_de_conjuntos_y_relacion_de_pertenencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.10_Centros_de_gravedad_momento_de_fuerzas_y_condiciones_de_equilibrio</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.10_centros_de_gravedad_momento_de_fuerzas_y_condiciones_de_equilibrio/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.10_centros_de_gravedad_momento_de_fuerzas_y_condiciones_de_equilibrio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.2_Cardinalidad_y_tipos_de_conjuntos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.2_cardinalidad_y_tipos_de_conjuntos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.2_cardinalidad_y_tipos_de_conjuntos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.2_Concentraciones_expresadas_en_unidades_fisicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.2_concentraciones_expresadas_en_unidades_fisicas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.2_concentraciones_expresadas_en_unidades_fisicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.2_Primera_ley_de_Newton</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.2_primera_ley_de_newton/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.2_primera_ley_de_newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.3_Cantidad_de_movimiento</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.3_cantidad_de_movimiento/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.3_cantidad_de_movimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.3_Concentraciones_expresadas_en_unidades_quimicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.3_concentraciones_expresadas_en_unidades_quimicas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.3_concentraciones_expresadas_en_unidades_quimicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.3_Relaciones_entre_conjuntos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.3_relaciones_entre_conjuntos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.3_relaciones_entre_conjuntos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.4_Concentraciones_expresadas_en_unidades_biologicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.4_concentraciones_expresadas_en_unidades_biologicas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.4_concentraciones_expresadas_en_unidades_biologicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.4_Operaciones_entre_conjuntos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.4_operaciones_entre_conjuntos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.4_operaciones_entre_conjuntos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.4_Segunda_ley_de_Newton</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.4_segunda_ley_de_newton/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.4_segunda_ley_de_newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.5_Algebra_de_conjuntos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.5_algebra_de_conjuntos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.5_algebra_de_conjuntos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.5_Dilucion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.5_dilucion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.5_dilucion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.5_Masa_inercia_y_peso</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.5_masa_inercia_y_peso/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.5_masa_inercia_y_peso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.6_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.6_problemas_de_aplicacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/2_soluciones_disoluciones/2.6_problemas_de_aplicacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.6_Producto_cartesiano</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.6_producto_cartesiano/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.6_producto_cartesiano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.6_Tercera_ley_de_Newton</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.6_tercera_ley_de_newton/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.6_tercera_ley_de_newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.7_Conjuntos_y_Tecnicas_de_conteo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.7_conjuntos_y_tecnicas_de_conteo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/2_teoria-de-conjuntos/2.7_conjuntos_y_tecnicas_de_conteo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.7_Fuerza_normal_y_de_friccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.7_fuerza_normal_y_de_friccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.7_fuerza_normal_y_de_friccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.8_Aplicacion_de_las_leyes_de_Newton</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.8_aplicacion_de_las_leyes_de_newton/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.8_aplicacion_de_las_leyes_de_newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.9_Estatica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.9_estatica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/2_dinamica_y_estatica_de_la_particula/2.9_estatica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.1_Conceptos_fundamentales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.1_conceptos_fundamentales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.1_conceptos_fundamentales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.1_Definicion_de_relaciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.1_definicion_de_relaciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.1_definicion_de_relaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.1_Propiedades_de_las_disoluciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.1_propiedades_de_las_disoluciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.1_propiedades_de_las_disoluciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.2_Composicion_de_relaciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.2_composicion_de_relaciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.2_composicion_de_relaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.2_Trabajo_de_una_fuerza_constante</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.2_trabajo_de_una_fuerza_constante/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.2_trabajo_de_una_fuerza_constante/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.2_Utilidades_de_las_propiedades_coligativas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.2_utilidades_de_las_propiedades_coligativas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.2_utilidades_de_las_propiedades_coligativas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.3_Presion_de_vapor</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.3_presion_de_vapor/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.3_presion_de_vapor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.3_Relaciones_de_equivalencia</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.3_relaciones_de_equivalencia/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.3_relaciones_de_equivalencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.3_Trabajo_de_una_fuerza_variable_en_magnitud_resortes</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.3_trabajo_de_una_fuerza_variable_en_magnitud_resortes/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.3_trabajo_de_una_fuerza_variable_en_magnitud_resortes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.4_Propiedad_coligativa_Descenso_de_la_presion_de_vapor</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.4_propiedad_coligativa_descenso_de_la_presion_de_vapor/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.4_propiedad_coligativa_descenso_de_la_presion_de_vapor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.4_Relacion_de_orden</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.4_relacion_de_orden/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.4_relacion_de_orden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.4_Trabajo_de_una_fuerza_variable_en_magnitud_y_direccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.4_trabajo_de_una_fuerza_variable_en_magnitud_y_direccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.4_trabajo_de_una_fuerza_variable_en_magnitud_y_direccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.5_Ecuacion_general_del_trabajo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.5_ecuacion_general_del_trabajo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.5_ecuacion_general_del_trabajo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.5_Propiedad_coligativa_Aumento_punto_de_ebullicion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.5_propiedad_coligativa_aumento_punto_de_ebullicion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.5_propiedad_coligativa_aumento_punto_de_ebullicion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.5_Relaciones_funcionales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.5_relaciones_funcionales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.5_relaciones_funcionales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.6_Energias_potencial_y_cinetica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.6_energias_potencial_y_cinetica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.6_energias_potencial_y_cinetica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.6_Funciones_inyectivas_y_sobreyectivas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.6_funciones_inyectivas_y_sobreyectivas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.6_funciones_inyectivas_y_sobreyectivas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.6_Propiedad_coligativa_Descenso_punto_de_congelacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.6_propiedad_coligativa_descenso_punto_de_congelacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.6_propiedad_coligativa_descenso_punto_de_congelacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.7_Fuerzas_conservativas_y_no_conservativas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.7_fuerzas_conservativas_y_no_conservativas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.7_fuerzas_conservativas_y_no_conservativas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.7_Propiedad_coligativa_Presion_Osmotica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.7_propiedad_coligativa_presion_osmotica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/3_propiedades_coligativas_a_las_soluciones/3.7_propiedad_coligativa_presion_osmotica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.7_Propiedades</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.7_propiedades/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.7_propiedades/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.8_Composicion_de_funciones_y_propiedades_de_la_inversa</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.8_composicion_de_funciones_y_propiedades_de_la_inversa/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/3_relaciones-funcionales/3.8_composicion_de_funciones_y_propiedades_de_la_inversa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3.8_Teorema_de_conservacion_de_la_energia_3.9_Movimiento_de_un_cuerpo_en_una_trayectoria_cualquiera</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.8_teorema_de_conservacion_de_la_energia_3.9_movimiento_de_un_cuerpo_en_una_trayectoria_cualquiera/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/3_trabajo_energia_y_potencia/3.8_teorema_de_conservacion_de_la_energia_3.9_movimiento_de_un_cuerpo_en_una_trayectoria_cualquiera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.1_Axiomas_de_Peano</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.1_axiomas_de_peano/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.1_axiomas_de_peano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.1_Definicion_y_conceptos_generales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.1_definicion_y_conceptos_generales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.1_definicion_y_conceptos_generales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.1_El_estado_de_equilibrio_quimico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.1_el_estado_de_equilibrio_quimico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.1_el_estado_de_equilibrio_quimico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.2_Cantidad_de_movimiento</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.2_cantidad_de_movimiento/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.2_cantidad_de_movimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.2_Constante_de_equilibrio</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.2_constante_de_equilibrio/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.2_constante_de_equilibrio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.2_Induccion_matematica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.2_induccion_matematica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.2_induccion_matematica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.3_Principio_de_Chatelier</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.3_principio_de_chatelier/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.3_principio_de_chatelier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.3_Principio_de_conservacion_de_la_cantidad_de_movimiento</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.3_principio_de_conservacion_de_la_cantidad_de_movimiento/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.3_principio_de_conservacion_de_la_cantidad_de_movimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.3_Simbolo_de_sumatoria</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.3_simbolo_de_sumatoria/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.3_simbolo_de_sumatoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.4_Funcion_factorial</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.4_funcion_factorial/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.4_funcion_factorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.4_Influencia_de_agentes_externos_sobre_la_constante_de_equilibrio</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.4_influencia_de_agentes_externos_sobre_la_constante_de_equilibrio/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.4_influencia_de_agentes_externos_sobre_la_constante_de_equilibrio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.4_Relacion_de_Newton</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.4_relacion_de_newton/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.4_relacion_de_newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.5_Aplicaciones_a_colisiones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.5_aplicaciones_a_colisiones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.5_aplicaciones_a_colisiones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.5_Numeros_combinatorios_y_sus_propiedades_Binomio_de_Newton</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.5_numeros_combinatorios_y_sus_propiedades_binomio_de_newton/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.5_numeros_combinatorios_y_sus_propiedades_binomio_de_newton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.5_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.5_problemas_de_aplicacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/4_equilibrio_quimico/4.5_problemas_de_aplicacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.6_Choques_oblicuos_o_en_un_plano</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.6_choques_oblicuos_o_en_un_plano/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.6_choques_oblicuos_o_en_un_plano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.6_Division_entera</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.6_division_entera/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.6_division_entera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.7_Maximo_comun_divisor</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.7_maximo_comun_divisor/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.7_maximo_comun_divisor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.7_Pendulo_balistico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.7_pendulo_balistico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.7_pendulo_balistico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.8_Algoritmo_de_Euclides</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.8_algoritmo_de_euclides/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.8_algoritmo_de_euclides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.8_Sistemas_de_varias_particulas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.8_sistemas_de_varias_particulas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/4_cantidad_de_movimiento_e_impulso/4.8_sistemas_de_varias_particulas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4.9_Congruencia_lineal</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.9_congruencia_lineal/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/4_numeros-naturales-y-enteros/4.9_congruencia_lineal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.1_Movimiento_de_rotacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.1_movimiento_de_rotacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.1_movimiento_de_rotacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.1_Principios_fundamentales_del_conteo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.1_principios_fundamentales_del_conteo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.1_principios_fundamentales_del_conteo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.1_Velocidad_de_la_reaccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.1_velocidad_de_la_reaccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.1_velocidad_de_la_reaccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.10_Rodadura</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.10_rodadura/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.10_rodadura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.11_Representacion_vectorial_de_magnitudes_angulares</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.11_representacion_vectorial_de_magnitudes_angulares/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.11_representacion_vectorial_de_magnitudes_angulares/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.12_Rotacion_alrededor_de_un_eje_movil</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.12_rotacion_alrededor_de_un_eje_movil/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.12_rotacion_alrededor_de_un_eje_movil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.2_Centros_de_gravedad_momento_de_fuerzas_y_condiciones_de_equilibrio_5.3_Energia_cinetica_de_rotacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.2_centros_de_gravedad_momento_de_fuerzas_y_condiciones_de_equilibrio_5.3_energia_cinetica_de_rotacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.2_centros_de_gravedad_momento_de_fuerzas_y_condiciones_de_equilibrio_5.3_energia_cinetica_de_rotacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.2_Combinacion_sin_reposicion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.2_combinacion_sin_reposicion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.2_combinacion_sin_reposicion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.2_Teoria_de_colisiones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.2_teoria_de_colisiones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.2_teoria_de_colisiones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.3_Energia_de_activacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.3_energia_de_activacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.3_energia_de_activacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.3_Permutacion_sin_repeticion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.3_permutacion_sin_repeticion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.3_permutacion_sin_repeticion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.4_Momento_de_inercia</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.4_momento_de_inercia/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.4_momento_de_inercia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.4_Teoria_del_estado_de_transicion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.4_teoria_del_estado_de_transicion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.4_teoria_del_estado_de_transicion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.4_Variacion_sin_reposicion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.4_variacion_sin_reposicion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.4_variacion_sin_reposicion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.5_Combinacion_con_reposicion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.5_combinacion_con_reposicion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.5_combinacion_con_reposicion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.5_Molecularidad_y_orden_de_reaccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.5_molecularidad_y_orden_de_reaccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.5_molecularidad_y_orden_de_reaccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.5_Teorema_de_Steiner</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.5_teorema_de_steiner/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.5_teorema_de_steiner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.6_Ecuacion_fundamental_de_la_dinamica_rotacional</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.6_ecuacion_fundamental_de_la_dinamica_rotacional/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.6_ecuacion_fundamental_de_la_dinamica_rotacional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.6_Mecanismos_de_reaccion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.6_mecanismos_de_reaccion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.6_mecanismos_de_reaccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.6_Permutacion_con_repeticion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.6_permutacion_con_repeticion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.6_permutacion_con_repeticion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.7_Catalisis</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.7_catalisis/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.7_catalisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.7_Momento_cinetico_e_impulsion_angular</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.7_momento_cinetico_e_impulsion_angular/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.7_momento_cinetico_e_impulsion_angular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.7_Variacion_con_reposicion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.7_variacion_con_reposicion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.7_variacion_con_reposicion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.8_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.8_problemas_de_aplicacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/5_cinetica_quimica/5.8_problemas_de_aplicacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.8_Problemas_de_conteo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.8_problemas_de_conteo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/5_analisisi-combinatorio/5.8_problemas_de_conteo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.8_Rotacion_y_traslacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.8_rotacion_y_traslacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.8_rotacion_y_traslacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5.9_Ecuaciones_generales_del_movimiento</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.9_ecuaciones_generales_del_movimiento/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/5_dinamica_del_cuerpo_rigido/5.9_ecuaciones_generales_del_movimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.1_Conceptos_y_definiciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.1_conceptos_y_definiciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.1_conceptos_y_definiciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.1_El_numero_complejo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.1_el_numero_complejo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.1_el_numero_complejo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.1_Teorias_que_rigen_el_equilibrio_quimico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.1_teorias_que_rigen_el_equilibrio_quimico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.1_teorias_que_rigen_el_equilibrio_quimico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.10_Deformaciones_Volumetricas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.10_deformaciones_volumetricas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.10_deformaciones_volumetricas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.2_Fuerzas_relativas_de_los_acidos_y_bases</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.2_fuerzas_relativas_de_los_acidos_y_bases/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.2_fuerzas_relativas_de_los_acidos_y_bases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.2_Representacion_grafica</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.2_representacion_grafica/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.2_representacion_grafica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.2_Tension_y_Deformacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.2_tension_y_deformacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.2_tension_y_deformacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.3_Escala_del_pH</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.3_escala_del_ph/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.3_escala_del_ph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.3_Ley_de_Hooke</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.3_ley_de_hooke/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.3_ley_de_hooke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.3_Modulo_y_argumento</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.3_modulo_y_argumento/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.3_modulo_y_argumento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.4_Forma_polar</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.4_forma_polar/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.4_forma_polar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.4_Modulo_de_elasticidad</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.4_modulo_de_elasticidad/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.4_modulo_de_elasticidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.4_pH_de_acidos_y_bases</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.4_ph_de_acidos_y_bases/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.4_ph_de_acidos_y_bases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.5_Coeficiente_Poisson</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.5_coeficiente_poisson/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.5_coeficiente_poisson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.5_Efecto_del_Ion_comun</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.5_efecto_del_ion_comun/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.5_efecto_del_ion_comun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.5_Operaciones_con_numeros_complejos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.5_operaciones_con_numeros_complejos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.5_operaciones_con_numeros_complejos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.6_Tensiones_tangenciales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.6_tensiones_tangenciales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.6_tensiones_tangenciales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.6_Teorema_de_Moivre</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.6_teorema_de_moivre/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.6_teorema_de_moivre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.6_Titulaciones_acido_base</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.6_titulaciones_acido_base/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.6_titulaciones_acido_base/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.7_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.7_problemas_de_aplicacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/6_equilibrio_ionico/6.7_problemas_de_aplicacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.7_Radicales_con_numeros_complejos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.7_radicales_con_numeros_complejos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.7_radicales_con_numeros_complejos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.7_Torsion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.7_torsion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.7_torsion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.8_Relaciones_entre_las_constantes_elasticas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.8_relaciones_entre_las_constantes_elasticas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.8_relaciones_entre_las_constantes_elasticas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.8_Teorema_de_Euler</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.8_teorema_de_euler/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.8_teorema_de_euler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.9_Flexion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.9_flexion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/6_elasticidad/6.9_flexion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6.9_Logaritmos_con_numeros_complejos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.9_logaritmos_con_numeros_complejos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/6_numeros-complejos/6.9_logaritmos_con_numeros_complejos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.1_Balanceo_de_ecuaciones</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.1_balanceo_de_ecuaciones/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.1_balanceo_de_ecuaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.1_Ley_de_composicion_interna</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.1_ley_de_composicion_interna/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.1_ley_de_composicion_interna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.1_Leyes_fundamentales</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.1_leyes_fundamentales/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.1_leyes_fundamentales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.10_Resonancia</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.10_resonancia/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.10_resonancia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.2_Celdas_voltaicas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.2_celdas_voltaicas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.2_celdas_voltaicas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.2_Fuerza_de_restitucion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.2_fuerza_de_restitucion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.2_fuerza_de_restitucion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.2_Propiedades</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.2_propiedades/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.2_propiedades/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.3_Estructura_de_grupo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.3_estructura_de_grupo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.3_estructura_de_grupo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.3_FEM_de_celda</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.3_fem_de_celda/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.3_fem_de_celda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.3_Relaciones_energeticas_del_movimiento_armonico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.3_relaciones_energeticas_del_movimiento_armonico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.3_relaciones_energeticas_del_movimiento_armonico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.4_Baterias</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.4_baterias/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.4_baterias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.4_Pendulo_matematico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.4_pendulo_matematico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.4_pendulo_matematico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.4_Propiedades_de_grupo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.4_propiedades_de_grupo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.4_propiedades_de_grupo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.5_Corrosion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.5_corrosion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.5_corrosion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.5_Pendulo_fisico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.5_pendulo_fisico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.5_pendulo_fisico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.5_Subgrupo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.5_subgrupo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.5_subgrupo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.6_Centro_de_Percusion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.6_centro_de_percusion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.6_centro_de_percusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.6_Electrolisis</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.6_electrolisis/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.6_electrolisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.6_Homomorfismo_entre_grupos</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.6_homomorfismo_entre_grupos/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.6_homomorfismo_entre_grupos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.7_Estructura_de_anillo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.7_estructura_de_anillo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.7_estructura_de_anillo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.7_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.7_problemas_de_aplicacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/05-quimica-general/7_principios_basicos_de_electroquimica/7.7_problemas_de_aplicacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.7_Reversibilidad_del_pendulo_fisico</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.7_reversibilidad_del_pendulo_fisico/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.7_reversibilidad_del_pendulo_fisico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.8_Estructura_de_cuerpo</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.8_estructura_de_cuerpo/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.8_estructura_de_cuerpo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.8_Oscilaciones_amortiguadas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.8_oscilaciones_amortiguadas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.8_oscilaciones_amortiguadas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.9_La_estructura_algebraica_de_un_conjunto</title>
+      <link>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.9_la_estructura_algebraica_de_un_conjunto/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/01-algebra/7_estructuras-algebraicas/7.9_la_estructura_algebraica_de_un_conjunto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7.9_Oscilaciones_forzadas</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.9_oscilaciones_forzadas/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/7_movimiento_armonico_simple/7.9_oscilaciones_forzadas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.1_Ley_de_Newton_de_la_Gravitacion_Universal</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.1_ley_de_newton_de_la_gravitacion_universal/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.1_ley_de_newton_de_la_gravitacion_universal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.2_Masa_de_tierra</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.2_masa_de_tierra/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.2_masa_de_tierra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.3_Variaciones_de_la_aceleracion_de_la_gravedad</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.3_variaciones_de_la_aceleracion_de_la_gravedad/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.3_variaciones_de_la_aceleracion_de_la_gravedad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.4_Campo_gravitatorio</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.4_campo_gravitatorio/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.4_campo_gravitatorio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.5_Movimiento_planetario_y_las_leyes_de_Keppler</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.5_movimiento_planetario_y_las_leyes_de_keppler/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.5_movimiento_planetario_y_las_leyes_de_keppler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.6_Problemas_de_aplicacion</title>
+      <link>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.6_problemas_de_aplicacion/</link>
+      <pubDate>Wed, 04 Mar 2020 15:58:26 +0800</pubDate>
+      <guid>http://joe4334e.github.io/emi/semestre1/04-fisica/8_gravitacion/8.6_problemas_de_aplicacion/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
